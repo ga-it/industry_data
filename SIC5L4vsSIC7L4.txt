@@ -1,1702 +1,1702 @@
 SIC5L4;SIC7L4;Level 5 text description
-9999;'0000;Registered Directors of companies/ Members of Close Corporations/ Trusts, etc
-9999;'0000;Individuals registered at SARS as individual with business but not own a business
-9999;'0000;Foreign businesses registered at SARS for VAT for the purpose of claiming custom and excise duty for exporting products into South Africa
-9999;'0000;DEPOT, ALL KINDS OF DEPOTS, INCLUDING BANKS
-1111;'0111;Growing of cereals (except rice), leguminous crops and oil seeds
-1111;'0111;Growing of cereals: barley
-1111;'0111;Growing of cereals: grain maize
-1111;'0111;Growing of cereals: millets
-1111;'0111;Growing of cereals: oats
-1111;'0111;Growing of cereals: rye
-1111;'0111;Growing of cereals: sorghum
-1111;'0111;Growing of cereals: wheat
-1111;'0111;Growing of leguminous crops: beans
-1111;'0111;Growing of leguminous crops: broad beans
-1111;'0111;Growing of leguminous crops: chick peas
-1111;'0111;Growing of leguminous crops: cow peas
-1111;'0111;Growing of leguminous crops: lentils
-1111;'0111;Growing of leguminous crops: lupins
-1111;'0111;Growing of leguminous crops: peas
-1111;'0111;Growing of leguminous crops: pigeon peas
-1111;'0111;Growing of oil seeds: castor bean 
-1111;'0111;Growing of oil seeds: groundnuts
-1111;'0111;Growing of oil seeds: linseed
-1111;'0111;Growing of oil seeds: mustard seed
-1111;'0111;Growing of oil seeds: niger seed
-1111;'0111;Growing of oil seeds: rapeseed
-1111;'0111;Growing of oil seeds: safflower seed
-1111;'0111;Growing of oil seeds: sesame seed
-1111;'0111;Growing of oil seeds: soya beans
-1111;'0111;Growing of oil seeds: sunflower seed
-1111;'0111;Growing of other cereals n.e.c
-1111;'0111;Growing of other leguminous crops
-1111;'0111;Growing of other oil seeds
-1111;'0111;Arrowroot farming
-1111;'0111;Barley growing
-1111;'0111;Beans, dried, production
-1111;'0111;Broom millet growing
-1111;'0111;Cereal grain growing
-1111;'0111;Coarse grain growing
-1111;'0111;Corn growing
-1111;'0111;Dried leguminous vegetables production
-1111;'0111;Dry field pea or field bean growing
-1111;'0111;Field pea growing
-1111;'0111;Garden pea growing
-1111;'0111;Grain crop growing
-1111;'0111;Grain sorghum growing
-1111;'0111;Growing of cereal grains
-1111;'0111;Haricot beans growing
-1111;'0111;Lentil growing
-1111;'0111;Lupin growing
-1111;'0111;Maize (except sweetcorn) growing
-1111;'0111;Oat growing
-1111;'0111;Oilseed rape growing
-1111;'0111;Oilseeds growing
-1111;'0111;Oleaginous fruit and oleaginous nuts growing
-1111;'0111;Pea growing
-1111;'0111;Peanuts growing
-1111;'0111;Peas growing (production)
-1111;'0111;Pulse growing
-1111;'0111;Rape and rape seed growing
-1111;'0111;Safflower growing
-1111;'0111;Sesame growing
-1111;'0111;Sorghum growing
-1111;'0111;Soya beans growing
-1111;'0111;Soybean growing
-1111;'0111;String bean growing
-1111;'0111;Sunflower growing
-1111;'0111;Sunflower seeds growing
-1111;'0111;Triticale growing
-1111;'0111;Wheat growing
-1112;'0111;Beans, green, growing
-1113;'0111;Mustard growing
-1111;'0112;Growing of rice
-1111;'0112;Rice growing
-1111;'0113;Growing of sugar beet
-1112;'0113;Growing of fruit bearing vegetables such as: cantaloupes
-1112;'0113;Growing of fruit bearing vegetables such as: cucumbers
-1112;'0113;Growing of fruit bearing vegetables such as: eggplants (aubergines)
-1112;'0113;Growing of fruit bearing vegetables such as: gherkins
-1112;'0113;Growing of fruit bearing vegetables such as: other melons
-1112;'0113;Growing of fruit bearing vegetables such as: pumpkin
-1112;'0113;Growing of fruit bearing vegetables such as: squash
-1112;'0113;Growing of fruit bearing vegetables such as: sweet corn
-1112;'0113;Growing of fruit bearing vegetables such as: tomatoes
-1112;'0113;Growing of fruit bearing vegetables such as: watermelons
-1112;'0113;Growing of leafy or stem vegetables: artichokes
-1112;'0113;Growing of leafy or stem vegetables: asparagus
-1112;'0113;Growing of leafy or stem vegetables: broccoli
-1112;'0113;Growing of leafy or stem vegetables: cabbages
-1112;'0113;Growing of leafy or stem vegetables: cauliflower
-1112;'0113;Growing of leafy or stem vegetables: lettuce chicory
-1112;'0113;Growing of leafy or stem vegetables: spinach
-1112;'0113;Growing of mushrooms
-1112;'0113;Growing of other fruit bearing vegetables
-1112;'0113;Growing of other leafy vegetables
-1112;'0113;Growing of other root, bulb or tuberous vegetables n.e.c
-1112;'0113;Growing of other roots and tubers
-1112;'0113;Growing of other stem vegetables
-1112;'0113;Growing of other vegetables
-1112;'0113;Growing of root, bulb or tuberous vegetables: carrots
-1112;'0113;Growing of root, bulb or tuberous vegetables: garlic
-1112;'0113;Growing of root, bulb or tuberous vegetables: leeks and other alliaceous vegetables
-1112;'0113;Growing of root, bulb or tuberous vegetables: onions (incl. shallots)
-1112;'0113;Growing of root, bulb or tuberous vegetables: turnips
-1112;'0113;Growing of roots and tubers: cassava
-1112;'0113;Growing of roots and tubers: potatoes
-1112;'0113;Growing of roots and tubers: sweet potatoes
-1112;'0113;Growing of roots and tubers: yams
-1112;'0113;Growing of truffles
-1112;'0113;Growing of vegetable seeds, except beet seeds
-1112;'0113;Growing of vegetables and melons, roots and tubers
-1111;'0113;Bean growing
-1111;'0113;Cassava growing
-1111;'0113;Chicory growing
-1111;'0113;Chicory roots growing
-1111;'0113;Roots growing
-1111;'0113;Sugar beet growing
-1111;'0113;Tubers growing - with a high starch or inulin content
-1112;'0113;Asparagus growing
-1112;'0113;Beetroot growing
-1112;'0113;Broccoli growing
-1112;'0113;Brussel sprout growing
-1112;'0113;Cabbage growing
-1112;'0113;Cantaloupe growing
-1112;'0113;Carrot growing
-1112;'0113;Cauliflower growing
-1112;'0113;Celery growing
-1112;'0113;Courgette growing (marrow)
-1112;'0113;Cress growing
-1112;'0113;Cucumbers growing
-1112;'0113;Cultivated mushroom growing
-1112;'0113;Fruit-bearing vegetables growing
-1112;'0113;Garlic growing
-1112;'0113;Gherkin growing
-1112;'0113;Hot house tomato growing
-1112;'0113;Hot house vegetable growing
-1112;'0113;Kumara growing
-1112;'0113;Leek growing
-1112;'0113;Lettuce growing
-1112;'0113;Marrow growing or gathering
-1112;'0113;Melons growing
-1112;'0113;Mushroom growing
-1112;'0113;Onion growing
-1112;'0113;Parsnip growing
-1112;'0113;Potatoes growing
-1112;'0113;Pumpkins growing
-1112;'0113;Rhizomes growing
-1112;'0113;Rhubarb growing
-1112;'0113;Silverbeet growing
-1112;'0113;Squash growing
-1112;'0113;Sweet potatoes growing
-1112;'0113;Sweetcorn growing
-1112;'0113;Tomato growing
-1112;'0113;Truffles growing
-1112;'0113;Tuberous roots growing
-1112;'0113;Turnip growing
-1112;'0113;Vegetable growing
-1112;'0113;Watercress growing
-1112;'0113;Watermelons growing
-1111;'0114;Growing of sugar cane
-1111;'0114;Sugar cane growing
-1111;'0114;Sugar cane plantation
-1111;'0115;Growing of unmanufactured tobacco
-1111;'0115;Preliminary tobacco leaf packing as part of farming
-1111;'0115;Tobacco growing
-1111;'0116;Growing of abaca
-1111;'0116;Growing of cotton
-1111;'0116;Growing of fibre crops
-1111;'0116;Growing of flax 
-1111;'0116;Growing of jute
-1111;'0116;Growing of kenaf
-1111;'0116;Growing of other fibre crops
-1111;'0116;Growing of other textile bast fibres
-1111;'0116;Growing of other textile fibre of the genus agave
-1111;'0116;Growing of other vegetable textile fibres
-1111;'0116;Growing of ramie
-1111;'0116;Growing of sisal
-1111;'0116;Growing of true hemp
-1111;'0116;Cotton growing
-1111;'0116;Flax growing
-1111;'0116;Hemp growing
-1111;'0116;Jute growing
-1111;'0116;Linen flax growing
-1111;'0116;Phormium flax growing
-1111;'0116;Plants growing, containing vegetable textile fibres retting
-1111;'0116;Ramie growing
-1111;'0116;Vegetables textile materials growing
-1111;'0119;Growing of beet seeds (excluding sugar beet seeds) 
-1111;'0119;Growing of other non-perennial crops
-1111;'0119;Growing of seeds of forage plants
-1111;'0119;Growing of swedes, mangolds, fodder roots, clover, alfalfa, sainfoin, maize and other grasses, forage kale and similar forage products
-1112;'0119;Growing of flower seeds (except sunflower seed)
-1112;'0119;Growing of flowers
-1112;'0119;Production of  flower buds
-1112;'0119;Production of cut flowers
-1111;'0119;Aloe vera growing
-1111;'0119;Canary seed growing
-1111;'0119;Clover seed growing
-1111;'0119;Crops growing n.e.c. (non perennial)
-1111;'0119;Fodder growing
-1111;'0119;Forage sorghum growing
-1111;'0119;Grain seed growing
-1111;'0119;Grass seed growing
-1111;'0119;Hay growing
-1111;'0119;Lucerne growing
-1111;'0119;Pasture seed growing
-1111;'0119;Ryecorn growing
-1111;'0119;Seeds production used for sowing and of sugar beet and forage plants
-1111;'0119;Silage production
-1111;'0119;Sudan grass production
-1111;'0119;Teasel (also teazel or teazle) plant growing
-1111;'0119;Turf growing (not in the wild)
-1112;'0119;Bamboo growing and cutting (own) for ornamental purposes
-1112;'0119;Carnation growing
-1112;'0119;Display foliage growing
-1112;'0119;Floriculture activities
-1112;'0119;Flower buds growing
-1112;'0119;Flower growing
-1112;'0119;Flower seed growing
-1112;'0119;Gerbera growing
-1112;'0119;Gypsophila growing
-1112;'0119;Lavender growing
-1112;'0119;Living plants for planting or ornamental purposes growing
-1112;'0119;Nursery products growing
-1112;'0119;Orchid growing
-1112;'0119;Plant nursery operation
-1112;'0119;Rose growing
-1112;'0119;Vine stock nursery operation
-1113;'0121;Growing of grapes
-1113;'0121;Growing of table grapes in vineyards
-1113;'0121;Growing of wine grapes in vineyards
-1113;'0121;Grape drying undertaken in conjunction with the growing thereof
-1113;'0121;Grape growing
-1113;'0121;Table grape growing
-1113;'0121;Vineyard operation
-1113;'0121;Viticulture activity (growing of grapes)
-1113;'0121;Wine manufacturing, done at the same location as grape growing
-1113;'0122;Bread fruit growing
-1113;'0122;Avocado growing
-1113;'0122;Babaco growing
-1113;'0122;Banana growing
-1113;'0122;Cherimoya growing
-1113;'0122;Dates growing
-1113;'0122;Feijoa growing
-1113;'0122;Fig growing
-1113;'0122;Growing of other tropical and subtropical fruits
-1113;'0122;Growing of tropical and subtropical fruit: avocados
-1113;'0122;Growing of tropical and subtropical fruit: bananas
-1113;'0122;Growing of tropical and subtropical fruit: dates
-1113;'0122;Growing of tropical and subtropical fruit: figs
-1113;'0122;Growing of tropical and subtropical fruit: guavas
-1113;'0122;Growing of tropical and subtropical fruit: mangoes
-1113;'0122;Growing of tropical and subtropical fruit: papayas
-1113;'0122;Growing of tropical and subtropical fruit: pineapples
-1113;'0122;Growing of tropical and subtropical fruit: plantains
-1113;'0122;Guavas growing
-1113;'0122;Litchi growing
-1113;'0122;Loquat growing
-1113;'0122;Mango growing
-1113;'0122;Passionfruit growing
-1113;'0122;Pineapple growing and farming
-1113;'0122;Sub-tropical fruit drying undertaken in conjunction with the growing thereof
-1113;'0122;Subtropical fruit growing
-1113;'0122;Tamarillo growing
-1113;'0122;Tropical fruit drying undertaken in conjunction with the growing thereof
-1113;'0123;Citrus fruit drying undertaken in conjunction with the growing thereof
-1113;'0123;Citrus fruit grove
-1113;'0123;Citrus fruit growing
-1113;'0123;Citrus orchard (growing)
-1113;'0123;Cumquat growing
-1113;'0123;Grape fruit growing
-1113;'0123;Growing of citrus fruits
-1113;'0123;Growing of citrus fruits: clementines
-1113;'0123;Growing of citrus fruits: grapefruit 
-1113;'0123;Growing of citrus fruits: lemons 
-1113;'0123;Growing of citrus fruits: limes
-1113;'0123;Growing of citrus fruits: mandarins 
-1113;'0123;Growing of citrus fruits: oranges
-1113;'0123;Growing of citrus fruits: pomelo
-1113;'0123;Growing of citrus fruits: tangerines
-1113;'0123;Lemon growing
-1113;'0123;Mandarin growing
-1113;'0123;Nectarine growing
-1113;'0123;Orange growing
-1113;'0123;Persimmon growing
-1113;'0123;Tangelo growing (partly pomelo and partly tangerine)
-1113;'0124;Apples growing
-1113;'0124;Apricot growing
-1113;'0124;Asian pear growing
-1113;'0124;Deciduous fruit growing (soft fruit)
-1113;'0124;Growing of other pome fruits and stone fruits n.e.c
-1113;'0124;Growing of pome fruits and stone fruits
-1113;'0124;Growing of pome fruits and stone fruits: apples
-1113;'0124;Growing of pome fruits and stone fruits: apricots
-1113;'0124;Growing of pome fruits and stone fruits: cherries
-1113;'0124;Growing of pome fruits and stone fruits: nectarines
-1113;'0124;Growing of pome fruits and stone fruits: peaches
-1113;'0124;Growing of pome fruits and stone fruits: pears
-1113;'0124;Growing of pome fruits and stone fruits: plums
-1113;'0124;Growing of pome fruits and stone fruits: quinces
-1113;'0124;Growing of pome fruits and stone fruits: sloes
-1113;'0124;Growing of pome fruits and stone fruits: sour cherries
-1113;'0124;Nashi pear growing
-1113;'0124;Orchard pipfruit growing
-1113;'0124;Orchard stonefruit growing
-1113;'0124;Peach growing
-1113;'0124;Pear growing
-1113;'0124;Plum or prune growing
-1113;'0124;Pone fruit drying undertaken in conjunction with the growing thereof
-1113;'0124;Quince growing
-1113;'0124;Stone fruit drying undertaken in conjunction with the growing thereof
-1113;'0125;Growing of other tree and bush fruits: locust beans
-1113;'0125;Almond growing
-1113;'0125;Berries growing
-1113;'0125;Berryfruit growing
-1113;'0125;Berryfruit orchard
-1113;'0125;Blackberry growing
-1113;'0125;Blackcurrant growing
-1113;'0125;Blue berry growing
-1113;'0125;Boysenberry growing
-1113;'0125;Bush fruits and nuts drying undertaken in conjunction with the growing thereof
-1113;'0125;Cashew nut growing
-1113;'0125;Cherries growing
-1113;'0125;Chestnut growing
-1113;'0125;Cranberry growing
-1113;'0125;Currant growing (red or black)
-1113;'0125;Edible nuts growing
-1113;'0125;Gooseberry growing
-1113;'0125;Growing of berries: blueberries
-1113;'0125;Growing of berries: currants
-1113;'0125;Growing of berries: gooseberries
-1113;'0125;Growing of berries: kiwi fruit
-1113;'0125;Growing of berries: raspberries
-1113;'0125;Growing of berries: strawberries
-1113;'0125;Growing of edible nuts: almonds
-1113;'0125;Growing of edible nuts: cashew nuts
-1113;'0125;Growing of edible nuts: chestnuts
-1113;'0125;Growing of edible nuts: hazelnuts
-1113;'0125;Growing of edible nuts: pistachios
-1113;'0125;Growing of edible nuts: walnuts
-1113;'0125;Growing of fruit seeds
-1113;'0125;Growing of other berries
-1113;'0125;Growing of other edible nuts
-1113;'0125;Growing of other tree and bush fruits and nuts
-1113;'0125;Kiwifruit growing
-1113;'0125;Loganberry growing
-1113;'0125;Macadamia nut growing
-1113;'0125;Mulberry growing
-1113;'0125;Mulberry tree cultivating
-1113;'0125;Nut bearing tree growing
-1113;'0125;Nuts growing
-1113;'0125;Pecan nut growing
-1113;'0125;Raspberry growing
-1113;'0125;Redcurrant growing
-1113;'0125;Soft fruit growing
-1113;'0125;Strawberry growing
-1113;'0125;Walnut growing
-1111;'0126;Growing of oleaginous fruits: oil palms
-1112;'0126;Growing of oleaginous fruits: olives
-1113;'0126;Growing of oleaginous fruits
-1113;'0126;Growing of oleaginous fruits: coconuts
-1113;'0126;Growing of other oleaginous fruits
-1111;'0126;Oleaginous fruit growing
-1112;'0126;Olives growing
-1113;'0126;Coconut growing
-1113;'0126;Oleaginous fruit drying undertaken in conjunction with the growing thereof
-1113;'0127;Growing of beverage crops
-1113;'0127;Growing of beverage crops: cocoa
-1113;'0127;Growing of beverage crops: coffee
-1113;'0127;Growing of beverage crops: maté
-1113;'0127;Growing of beverage crops: tea
-1113;'0127;Growing of other beverage crops
-1113;'0127;Beverage crops growing
-1113;'0127;Coffee growing
-1113;'0127;Coffee of cocoa beans growing
-1113;'0127;Mate leaves growing
-1113;'0127;Tea drying and packing undertaken in conjunction with the growing thereof
-1113;'0127;Tea leaves growing
-1113;'0127;Tea plantation (farming)
-1111;'0128;Growing of drug crops
-1111;'0128;Growing of hops
-1111;'0128;Growing of narcotic crops
-1111;'0128;Growing of plants used primarily for insecticidal, fungicidal or similar purposes
-1111;'0128;Growing of plants used primarily in perfumery
-1111;'0128;Growing of plants used primarily in pharmacy
-1111;'0128;Growing of vanilla
-1112;'0128;Growing of chillies and peppers (capsicum spp.)
-1112;'0128;Growing of fennel
-1113;'0128;Growing of anise
-1113;'0128;Growing of badian
-1113;'0128;Growing of cardamoms
-1113;'0128;Growing of cinnamon (canella)
-1113;'0128;Growing of cloves
-1113;'0128;Growing of ginger
-1113;'0128;Growing of mace
-1113;'0128;Growing of nutmeg
-1113;'0128;Growing of pepper (piper spp.)
-1113;'0128;Growing of other spices and aromatic crops
-1111;'0128;Drug plants growing
-1111;'0128;Herb growing
-1111;'0128;Hop cones growing
-1111;'0128;Hops growing
-1111;'0128;Plant materials growing, used in pharmacy or for insecticides, fungicidal or similar purposes
-1111;'0128;Vanilla bean growing
-1112;'0128;Capers growing
-1112;'0128;Capsicum growing
-1112;'0128;Chervil growing
-1112;'0128;Chilli farming
-1112;'0128;Chive growing
-1112;'0128;Fruit of the genus capsicum or pimenta or fennel growing
-1112;'0128;Parsley growing
-1112;'0128;Sweet marjoram growing
-1112;'0128;Tarragon growing
-1113;'0128;Aniseeds growing
-1113;'0128;Basil leaves growing
-1113;'0128;Bay leaves growing
-1113;'0128;Cinnamon growing
-1113;'0128;Cloves growing
-1113;'0128;Coriander seeds growing
-1113;'0128;Cumin seeds growing
-1113;'0128;Ginger  growing
-1113;'0128;Nutmeg growing
-1113;'0128;Spanish hops growing (origanum/marjojam)
-1113;'0128;Spice crops growing
-1113;'0128;Spice fruit growing
-1113;'0128;Spice leaves growing
-1113;'0128;Spice seeds growing
-1113;'0128;Thyme leaves growing
-1111;'0129;Growing of other perennial crops
-1111;'0129;Growing of rubber trees
-1111;'0129;Growing of trees for extraction of sap (for extraction of sap in the wild, see 0230)
-1111;'0129;Growing of vegetable materials of a kind used primarily for plaiting
-1112;'0129;Growing of Christmas trees
-1111;'0129;Crops growing n.e.c. (perennial)
-1111;'0129;Plant material growing for plaiting, padding or stuffing or for brooms or brushes
-1111;'0129;Rubber trees growing
-1112;'0130;Operation of tree nurseries (for forest tree nurseries, see 0210)
-1112;'0130;Plant propagation
-1112;'0130;Bulb propagation
-1112;'0130;Bulbs growing
-1112;'0130;Corms growing
-1112;'0130;Crowns growing
-1112;'0130;Fruit tree nursery operation
-1112;'0130;Growing of cuttings and slips
-1112;'0130;Growing of live plants for bulbs
-1112;'0130;Growing of mushroom spawn
-1112;'0130;Growing of plants for ornamental purposes, including turf for transplanting
-1112;'0130;Growing of plants for plating (for seed-production, see 011 and 012)
-1112;'0130;Growing of tubers and roots
-1112;'0130;Horticultural specialities growing or production
-1112;'0130;Mushroom spawn growing
-1112;'0130;Plant stock growing
-1112;'0130;Seed potato growing
-1112;'0130;Seedling growing
-1112;'0130;Seedling plant growing
-1112;'0130;Seedling plant production
-1112;'0130;Seeds for flowers growing or production
-1112;'0130;Seeds for fruit or vegetables production or growing (for propagation)
-1112;'0130;Unrooted cuttings or slips production
-1112;'0130;Vegetable seed growing
-1112;'0130;Willow tree growing (nurseries)
-1140;'0130;Crop growth promoting activities
-1121;'0141;Beef farming
-1121;'0141;Bovine semen production
-1121;'0141;Breeding of buffaloes
-1121;'0141;Breeding of cattle
-1121;'0141;Buffalo, domesticated, grazing
-1121;'0141;Butter production (on the farm)
-1121;'0141;Cattle farming
-1121;'0141;Cattle feedlot operation
-1121;'0141;Cheese production undertaken in conjunction with farming activities
-1121;'0141;Dairy farming
-1121;'0141;Dairy products production, undertaken in conjunction with farming activities
-1121;'0141;Livestock speculators - cattle and buffaloes
-1121;'0141;Production of bovine semen
-1121;'0141;Production of raw cow milk from buffaloes (for processing of milk, see 1050)
-1121;'0141;Production of raw cow milk from cows (for processing of milk, see 1050)
-1121;'0141;Raising of buffaloes
-1121;'0141;Raising of cattle
-1121;'0141;Raising of cattle and buffaloes
-1121;'0141;Raw cattle milk production
-1121;'0141;Share cattle milking operation principally (not town milk)
-1121;'0142;Breeding of asses
-1121;'0142;Breeding of horses, including racing horses (for operation of racing and riding stables, see 9319)
-1121;'0142;Breeding of mules or hinnies
-1121;'0142;Raising  of horses, including racing horses (for operation of racing and riding stables, see 9319)
-1121;'0142;Raising of asses
-1121;'0142;Raising of horses and other equines
-1121;'0142;Raising of mules or hinnies
-1121;'0142;Asses farming
-1121;'0142;Bloodstock investment
-1121;'0142;Hinnies farming
-1121;'0142;Horse ranching
-1121;'0142;Horse stud farm operation
-1121;'0142;Horses farming
-1121;'0142;Livestock speculators - horses and other equines
-1121;'0142;Mules farming
-1121;'0142;Stallion syndicate activities
-1121;'0142;Stud-farming
-1121;'0143;Breeding of camels (dromedary) and camelids
-1121;'0143;Raising of camels (dromedary) and camelids
-1121;'0143;Raising of camels and camelids
-1121;'0143;Alpaca farming
-1121;'0143;Livestock speculators - camels and camelids
-1121;'0143;Llama farming
-1121;'0143;Raw camel milk production
-1121;'0144;Breeding of goats
-1121;'0144;Breeding of sheep
-1121;'0144;Production of raw goat milk (for processing of milk, see 1050)
-1121;'0144;Production of raw sheep milk (for processing of milk, see 1050)
-1121;'0144;Production of raw wool (for processing of pulled wool, see 1010)
-1121;'0144;Raising of goats
-1121;'0144;Raising of sheep
-1121;'0144;Raising of sheep and goats
-1121;'0144;Dairy goat farming
-1121;'0144;Goats farming and breeding
-1121;'0144;Livestock speculators - sheep and goats
-1121;'0144;Prime lamb raising
-1121;'0144;Raw sheep milk production
-1121;'0144;Share goat milking operation principally (not town milk)
-1121;'0144;Sheep farming and breeding
-1121;'0144;Sheep ranching
-1121;'0144;Sheep-shearing  by sheep owner
-1121;'0144;Wool growing (raw)
-1122;'0145;Breeding of swine (pigs)
-1122;'0145;Raising of swine (pigs)
-1122;'0145;Raising of swine/pigs
-1121;'0145;Livestock speculators - swine/pig
-1122;'0145;Pig farming
-1122;'0145;Pig raising
-1122;'0145;Swine raising
-1122;'0146;Eggs production
-1122;'0146;Livestock speculators - poultry
-1122;'0146;Breeding of poultry: ducks
-1122;'0146;Breeding of poultry: fowls of the species Gallus domesticus (chickens and capons)
-1122;'0146;Breeding of poultry: geese
-1122;'0146;Breeding of poultry: guinea fowls
-1122;'0146;Breeding of poultry: turkeys
-1122;'0146;Broiler farming
-1122;'0146;Chicken farming (also slaughtering on farm)
-1122;'0146;Chicken farming in conjunction with manufacturing (slaughtering, dressing or packing)
-1122;'0146;Chicken hatchery operation for egg production
-1122;'0146;Chicken hatchery operation for meat production
-1122;'0146;Duck farming for meat
-1122;'0146;Geese farming for meat
-1122;'0146;Goose farming
-1122;'0146;Operation of poultry hatcheries
-1122;'0146;Poultry egg farm operation
-1122;'0146;Poultry farming for meat
-1122;'0146;Poultry hatcheries operation
-1122;'0146;Poultry slaughtering undertaken in conjunction with farming
-1122;'0146;Production of eggs
-1122;'0146;Raising of poultry
-1122;'0146;Raising of poultry: ducks
-1122;'0146;Raising of poultry: fowls of the species Gallus domesticus (chickens and capons)
-1122;'0146;Raising of poultry: geese
-1122;'0146;Raising of poultry: guinea fowls
-1122;'0146;Raising of poultry: turkeys
-1122;'0146;Slaughter of poultry on the farm
-1122;'0146;Turkey farming for meat
-1122;'0149;Bee-keeping 
-1122;'0149;Breeding of birds, such as parakeets etc. (pets)
-1122;'0149;Breeding of cats (pets)
-1122;'0149;Breeding of dogs (pets)
-1122;'0149;Breeding of emus
-1122;'0149;Breeding of hamsters etc. (pets)
-1122;'0149;Breeding of insects
-1122;'0149;Breeding of ostriches
-1122;'0149;Breeding of other birds (except poultry)
-1122;'0149;Breeding of other fur animals
-1122;'0149;Breeding of rabbits
-1122;'0149;Livestock speculators - other animals
-1122;'0149;Muskrat farming
-1122;'0149;Operation of land mollusc farms
-1122;'0149;Operation of snail farms
-1122;'0149;Operation of worm farms
-1122;'0149;Production of beeswax
-1122;'0149;Production of bird skins from ranching operation
-1122;'0149;Production of fur skins from ranching operation
-1122;'0149;Production of honey
-1122;'0149;Production of reptile skins from ranching operation
-1122;'0149;Production of silk worm cocoons
-1122;'0149;Raising of birds, such as parakeets etc. (pets)
-1122;'0149;Raising of cats (pets)
-1122;'0149;Raising of diverse animals
-1122;'0149;Raising of dogs (pets)
-1122;'0149;Raising of emus
-1122;'0149;Raising of hamsters etc. (pets)
-1122;'0149;Raising of insects
-1122;'0149;Raising of ostriches
-1122;'0149;Raising of other animals
-1122;'0149;Raising of other birds (except poultry)
-1122;'0149;Raising of other fur animals
-1122;'0149;Raising of rabbits
-1122;'0149;Raising of silk worms
-1151;'0149;Game farming
-1151;'0149;Game propagation
-1122;'0149;Apiary operation
-1122;'0149;Apiculture activity
-1122;'0149;Bee catching operation (for agricultural purposes)
-1122;'0149;Bee keeping for raw honey production
-1122;'0149;Bee keeping for sale of honey
-1122;'0149;Bird breeding
-1122;'0149;Bird skins production - from ranching operation
-1122;'0149;Birds raising
-1122;'0149;Butterfly breeding
-1122;'0149;Cats breeding
-1122;'0149;Dogs breeding
-1122;'0149;Domesticated animals raising except swine and poultry
-1122;'0149;Emu farming
-1122;'0149;Fitch or polecat breeding
-1122;'0149;Furskin animal breeding
-1122;'0149;Furskin production with farming operation
-1122;'0149;Game bird farming
-1122;'0149;Greyhound breeding
-1122;'0149;Honey production
-1122;'0149;Insects raising
-1122;'0149;Land mollusc raising
-1122;'0149;Land molluscs breeding
-1122;'0149;Opossum breeding
-1122;'0149;Ostrich farming
-1122;'0149;Pet breeding
-1122;'0149;Rabbit farming and raising
-1122;'0149;Raw honey production
-1122;'0149;Reptile skins production from ranching operation
-1122;'0149;Reptiles raising
-1122;'0149;Sericultural farming and breeding services (silkworm)
-1122;'0149;Silkworm cocoons production
-1122;'0149;Silkworm egg production and raising of silkworm
-1122;'0149;Small animal breeding
-1122;'0149;Snake farming
-1122;'0149;Vermiculture (worm breeding)
-1122;'0149;Worm farming
-1122;'0149;Worms breeding
-1151;'0149;Deer breeding and farming
-1151;'0149;Deer farming for venison
-1151;'0149;Deer velvet processing/production
-3150;'0149;Production of fellmongered wool, pelt or slipe wool
-1130;'0150;Animal farming with crops, etc. (neither exceeding 66%)
-1130;'0150;Growing of crops combined with farming of animals (neither exceeding 66%)
-1113;'0161;Trimming of fruit trees on a fee or contract basis
-1113;'0161;Trimming of vines on a fee or contract basis
-1140;'0161;Crop spraying, including by air on a fee or contract basis
-1140;'0161;Establishing a crop on a fee or contract basis
-1140;'0161;Harvesting on a fee or contract basis
-1140;'0161;Maintenance of land to keep it in good condition for agricultural use on a fee or contract basis (to keep it in good ecological condition, see 8130)
-1140;'0161;Operation of agricultural irrigation equipment on a fee or contract basis
-1140;'0161;Pest control (including rabbits) in connection with agriculture on a fee or contract basis
-1140;'0161;Preparation of fields on a fee or contract basis
-1140;'0161;Provision of agricultural machinery with operators and crew on a fee or contract basis
-1140;'0161;Support activities for crop production
-1140;'0161;Thinning of beets on a fee or contract basis
-1140;'0161;Transplanting of rice on a fee or contract basis
-1140;'0161;Treatment of crops on a fee or contract basis
-1111;'0161;Latex harvesting
-1111;'0161;Liquid latex plantation treatment
-1112;'0161;Tree plant and tree bracing services for ornamental trees in nurseries
-1113;'0161;Orchard maintenance on a fee or contract basis
-1113;'0161;Orchard pruning on a fee or contract basis
-1140;'0161;Aerial crop dusting services
-1140;'0161;Aerial crop spraying services
-1140;'0161;Aerial fertilizer spreading services
-1140;'0161;Aerial mustering
-1140;'0161;Aerial pasture spraying or dusting
-1140;'0161;Aerial pest control or baiting
-1140;'0161;Aerial seeding service
-1140;'0161;Aerial topdressing services
-1140;'0161;Agricultural irrigation system service operation
-1140;'0161;Agricultural land clearing service
-1140;'0161;Agricultural machinery rental (with operator)
-1140;'0161;Agricultural machinery with drivers and crew provision
-1140;'0161;Agricultural pest control services
-1140;'0161;Agricultural pest eradication services
-1140;'0161;Apple picking services
-1140;'0161;Canal maintenance, not involving construction (agricultural irrigation)
-1140;'0161;Cane sugar cutting service
-1140;'0161;Crop bulk packaging
-1140;'0161;Crop establishing activities
-1140;'0161;Crop harvesting and related activities
-1140;'0161;Crop production services (on fee or contract basis)
-1140;'0161;Crop protecting activities
-1140;'0161;Crop spraying or dusting (aerial)
-1140;'0161;Deforestation of land
-1140;'0161;Fallowing of land
-1140;'0161;Farm development
-1140;'0161;Farm irrigation service
-1140;'0161;Farm labour contractors activities
-1140;'0161;Fertilizer spreading service
-1140;'0161;Fodder cultivating services
-1140;'0161;Fodder planting services
-1140;'0161;Fruit packing services by companies, on the farm or warehouse not situated on farm
-1140;'0161;Fruit picking and sorting services
-1140;'0161;Grain cultivating services
-1140;'0161;Grain planting services
-1140;'0161;Grape vine improvement services
-1140;'0161;Ground spread crop spraying services
-1140;'0161;Ground spread topdressing services
-1140;'0161;Ground spreading fertilizer services
-1140;'0161;Ground spreading lime services
-1140;'0161;Horticultural crop cultivating services
-1140;'0161;Horticultural crop planting services
-1140;'0161;Horticultural services
-1140;'0161;Insect extermination, agricultural service
-1140;'0161;Irrigation systems operation for agricultural purposes
-1140;'0161;Market gardening
-1140;'0161;Nassella tussock controlling services
-1140;'0161;Natural fresh fertilizer gathering service
-1140;'0161;Orchard and field preparation services
-1140;'0161;Orchard trees spraying , pruning and surgery services
-1140;'0161;Pasture cultivating services
-1140;'0161;Pasture planting services
-1140;'0161;Pest destroying and spraying
-1140;'0161;Ploughing services
-1140;'0161;Pollination services
-1140;'0161;Post tensioning services for farmers (not electric poles)
-1140;'0161;Rabbit eradication services
-1140;'0161;Rat destroying and trapping farm service
-1140;'0161;Rice transplantation services in rice fields
-1140;'0161;Rural land clearing services
-1140;'0161;Scrub cutting services
-1140;'0161;Trapping vermin service (small animals e.g. insects, rodents) on farms
-1140;'0161;Tree bracing services for orchards
-1140;'0161;Tree doctoring services (farm)
-1140;'0161;Tree surgeon services (farm)
-1140;'0161;Turf cutting and laying services
-1140;'0161;Vegetable cultivating services
-1140;'0161;Vegetable planting services
-1140;'0161;Water irrigation systems operated for agricultural purposes
-1140;'0162;Activities of farriers
-1140;'0162;Activities related to artificial insemination on a fee or contract basis (agriculture)
-1140;'0162;Agistment services on a fee or contract basis (agriculture)
-1140;'0162;Agricultural activities to promote propagation, growth and output of animals on a fee or contract basis
-1140;'0162;Animal production services (on fee or contract basis)
-1140;'0162;Coop cleaning on a fee or contract basis (agriculture)
-1140;'0162;Droving services on a fee or contract basis (agriculture)
-1140;'0162;Farm animal boarding and care on a fee or contract basis, (for provision of space for animal boarding only, see 6810) and for pet boarding, see 9609)
-1140;'0162;Herd testing services on a fee or contract basis (agriculture)
-1140;'0162;Poultry caponizing on a fee or contract basis (agriculture)
-1140;'0162;Sheep shearing on a fee or contract basis (agriculture)
-1121;'0162;Feedlot provision services
-1140;'0162;Agistment service activities
-1140;'0162;Agricultural livestock services
-1140;'0162;Animal boarding operation e.g. kennels, stables
-1140;'0162;Animal breeding centre operation
-1140;'0162;Animal care centre operation
-1140;'0162;Animal catching services
-1140;'0162;Animal cloning services
-1140;'0162;Animal husbandry services
-1140;'0162;Animal husbandry services except veterinary services
-1140;'0162;Animal output growth promoting activities
-1140;'0162;Animal output propagation promoting activities
-1140;'0162;Animal skinning
-1140;'0162;Animal spaying services
-1140;'0162;Artificial animal breeding services
-1140;'0162;Artificial insemination services
-1140;'0162;Branding services for livestock
-1140;'0162;Cattery boarding operation
-1140;'0162;Cattle dipping operation
-1140;'0162;Cattle drafting service
-1140;'0162;Cattle drenching service
-1140;'0162;Cattle droving service
-1140;'0162;Cattle mustering service by helicopter
-1140;'0162;Cleaning and selling of litter after removal from chickenhouses (farm)
-1140;'0162;Contract milking services
-1140;'0162;Coop cleaning activities
-1140;'0162;Deer eradication services
-1140;'0162;Dog boarding kennel operation
-1140;'0162;Droving activities
-1140;'0162;Farm butcher services
-1140;'0162;Farm home kill butcher service
-1140;'0162;Goat shearing services
-1140;'0162;Grazing agency services
-1140;'0162;Herd testing services
-1140;'0162;Horse breaking services
-1140;'0162;Livestock agistment services
-1140;'0162;Livestock breeding services
-1140;'0162;Livestock dipping services
-1140;'0162;Livestock drafting or droving services
-1140;'0162;Livestock drenching services
-1140;'0162;Livestock grazing services
-1140;'0162;Livestock improvement services
-1140;'0162;Livestock mustering services
-1140;'0162;Lucerne harvesting services
-1140;'0162;Manure gathering
-1140;'0162;Mulesing service
-1140;'0162;Noxious (dangerous) animal eradication services
-1140;'0162;Pedigree record services
-1140;'0162;Poultry caponising activities
-1140;'0162;Sharemilking services
-1140;'0162;Sheep crutching services
-1140;'0162;Sheep dipping services
-1140;'0162;Sheep drenching services
-1140;'0162;Sheep scanning services
-1140;'0162;Sheep sheering and dagging services
-1140;'0162;Shepherding services
-1140;'0162;Stud services on a fee or contract basis (agriculture)
-1140;'0162;Supply of bedding materials and services to chicken farmers
-1140;'0162;Support activities for animal production
-1140;'0162;Wool classing and grading services
-1152;'0162;Warrening service (rabbit)
-1113;'0163;Sun-drying of fruit and vegetables
-1113;'0163;Waxing of fruit
-1111;'0163;Jute scutching on the farm
-1113;'0163;Apple, sun drying (for own use)
-1113;'0163;Grape sun drying operation (farm)
-1140;'0163;Agricultural products grading services
-1140;'0163;Cotton ginning
-1140;'0163;Crop cleaning and decorticating
-1140;'0163;Crop cooling and drying
-1140;'0163;Crop grading
-1140;'0163;Crop reaping services
-1140;'0163;Crop retting
-1140;'0163;Crop trimming
-1140;'0163;Egg grading and cleaning
-1140;'0163;Fruit grading and packing services
-1140;'0163;Fruit preserving and enhancing services by dipping, washing, waxing, etc. before packing and selling on behalf of farmer
-1140;'0163;Grain cleaning services
-1140;'0163;Grain dressing services
-1140;'0163;Grain drying services
-1140;'0163;Grain grading services
-1140;'0163;Grain threshing services
-1140;'0163;Hay baling and binding services
-1140;'0163;Hay cutting and making services
-1140;'0163;Hay trussing service for farmers
-1140;'0163;Post-harvest crop activities
-1140;'0163;Preparation of cocoa beans
-1140;'0163;Preparation of crops for primary markets, i.e. cleaning, trimming, grading, disinfecting
-1140;'0163;Preparation of tobacco leaves
-1140;'0163;Seed cleaning services
-1140;'0163;Seed dressing services
-1140;'0163;Seed drying services
-1140;'0163;Seed grading services
-1140;'0163;Seed-packing service
-1140;'0163;Shelling maize services (farm)
-1140;'0163;Silage making services
-1140;'0163;Silo filling services
-1140;'0163;Tobacco  leaf packing as part of services to farmers
-1140;'0163;Vegetable grading and packing services
-1140;'0163;Vegetable picking and sorting services
-1140;'0164;Drying, cleaning, grading and treating of seeds until they are marketed
-1140;'0164;Seed processing for propagation
-1140;'0164;Seed processing for propagation (for processing of seeds to obtain oil, see 1040)
-1140;'0164;Treatment of genetically modified seeds
-1152;'0170;Aerial wild deer trapping
-1152;'0170;Animals, dead or alive, taking , for food, fur, skin, or for use in research, in zoos or pets
-1152;'0170;Bird hunting/trapping (for commercial)
-1152;'0170;Birds skins production from hunting and trapping activities
-1152;'0170;Buffalo hunting
-1152;'0170;Commercial hunting and trapping promoting services
-1152;'0170;Crocodile hunting or trapping
-1152;'0170;Culling of wild animals
-1152;'0170;Deer hunting/trapping for meat or skins
-1152;'0170;Dingo hunting or trapping
-1152;'0170;Elephant hunting for their teeth (ivory) for exporting
-1152;'0170;Fur skin animal hunting or trapping
-1152;'0170;Furs production from hunting
-1152;'0170;Game hunting/trapping for meat or skins
-1152;'0170;Goat hunting/trapping for meat or skins
-1152;'0170;Hunting on a commercial basis (for recreation and related service activities, see 9319)
-1152;'0170;Hunting, trapping and related service activities
-1152;'0170;Hunting/trapping on a commercial basis
-1152;'0170;Kangaroo hunting
-1152;'0170;Land mollusc gathering
-1152;'0170;Land-based catching of sea mammals such as walrus and seal
-1152;'0170;Mutton bird catching
-1152;'0170;Opossum hunting/trapping for meat or skins
-1152;'0170;Penguin eggs gathering
-1152;'0170;Pig hunting/trapping for meat or skins
-1152;'0170;Possum hunting/trapping for meat or skins
-1152;'0170;Production of bird skins from hunting or trapping activities (for ranching activities, see 014)
-1152;'0170;Production of fur skins from hunting or trapping activities (for skins from ranching activities, see 014 and from slaughterhouses, see 1010)
-1152;'0170;Production of reptile skins from hunting or trapping activities (for skins from ranching activities, see 014 and from slaughterhouses, see 1010))
-1152;'0170;Rabbit hunting/trapping for meat or skins
-1152;'0170;Reptile skins production from hunting and trapping activities
-1152;'0170;Sea mammals catching
-1152;'0170;Seal hunting and trapping
-1152;'0170;Seals catching
-1152;'0170;Snake catching
-1152;'0170;Taking of animals (dead or alive) for food
-1152;'0170;Taking of animals (dead or alive) for fur and skin
-1152;'0170;Taking of animals (dead or alive) for use in research
-1152;'0170;Taking of animals (dead or alive) for use in zoos or as pets
-1152;'0170;Trapping animals for fur
-1152;'0170;Trapping on a commercial basis
-1152;'0170;Walruses catching
-1152;'0170;Wild animal hunting and trapping
-1210;'0210;Silviculture and other forestry activities
-1111;'0210;Osier growing
-1111;'0210;Palm plantation
-1210;'0210;Afforestation services
-1210;'0210;Aloe vera growing (wild)
-1210;'0210;Conservation of forests
-1210;'0210;Forest conservation services
-1210;'0210;Forest growing operation
-1210;'0210;Forest management and maintenance services
-1210;'0210;Forest nursery operation (trees, etc.)
-1210;'0210;Forest ownership
-1210;'0210;Forest planting, replanting services (trees, etc.)
-1210;'0210;Growing of  pulpwood in natural forests
-1210;'0210;Growing of  pulpwood in planted forests
-1210;'0210;Growing of coppice in natural forests
-1210;'0210;Growing of coppice in planted forests
-1210;'0210;Growing of fire wood in natural forests
-1210;'0210;Growing of fire wood in planted forests
-1210;'0210;Growing of standing timber: planting, replanting, transplanting and thinning  in natural or planted forests
-1210;'0210;Operation of forest tree nurseries in natural forests (for growing of christmas trees, see 0129)
-1210;'0210;Operation of forest tree nurseries in planted forests (for operation of tree nurseries, see 0130)
-1210;'0210;Planting of forests
-1210;'0210;Replanting of forests
-1210;'0210;Timber plantation operation
-1210;'0210;Wattle plantation
-1210;'0220;Gathering of fire wood
-1210;'0220;Production of charcoal in the forest (using traditional methods)
-1220;'0220;Logging
-1220;'0220;Production of fire wood
-1220;'0220;Production of roundwood for forest-based manufacturing industries
-1220;'0220;Production of roundwood used in an unprocessed form such as pit-props, fence posts  and utility poles
-1210;'0220;Charcoal burning when carried on in the forest (wood)
-1210;'0220;Wood charcoal briquettes, blocks, manufacturing, in the forest
-1210;'0220;Wood cutting in forest for chemical distillation
-1220;'0220;Christmas tree cutting
-1220;'0220;Forest firewood cutting
-1220;'0220;Forest logging
-1220;'0220;Forest material rough shaping and hewing
-1220;'0220;Forest stump cutting
-1220;'0220;Forest tree cutting and felling
-1220;'0220;Loggers - engaged in cutting timber and in producing riven forest  materials
-1220;'0220;Loggers - engaged in cutting timber and in producing round hewn wood raw materials
-1220;'0220;Logging camps
-1220;'0220;Logging contractors
-1220;'0220;Logging services activities
-1220;'0220;Picket rough shaping and hewing from forest timber
-1220;'0220;Pole hewing forest timber
-1220;'0220;Posts shaping forest timber
-1220;'0220;Pulpwood cutting, forest or bush
-1220;'0220;Railway sleeper hewing and rough shaping from forest timber
-1220;'0220;Sawlog cutting from forest
-1220;'0220;Shingle bolt hewing and rough shaping from forest timber
-1220;'0220;Shuttle block hewing and rough shaping from forest timber
-1220;'0220;Stump cutting
-1220;'0220;Timber hewing (forest)
-1220;'0220;Tree cutting or felling (forest)
-1220;'0220;Wooden pole rough shaping from forest timber (in forest)
-1220;'0220;Wooden post hewing from forest timber (in forest)
-1220;'0220;Wooden prop hewing and rough shaping from forest timber (in forest)
-1220;'0220;Wooden railroad tie rough hewing (in forest)
-1220;'0220;Wooden telegraph pole hewing
-1112;'0230;Gathering of non-wood forest products
-1112;'0230;Gathering of wild growing materials: mushrooms and truffles (for growing of mushrooms or truffles, see 0113)
-1113;'0230;Gathering of wild growing materials: berries (for growing of berries, see 0125)
-1113;'0230;Gathering of wild growing materials: nuts (for growing of nuts, see 0125)
-1210;'0230;Bamboo cutting, independent
-1210;'0230;Gathering of wild growing materials: acorns, horse chestnuts
-1210;'0230;Gathering of wild growing materials: balata and other rubber-like gums
-1210;'0230;Gathering of wild growing materials: balsams
-1210;'0230;Gathering of wild growing materials: cork
-1210;'0230;Gathering of wild growing materials: eelgrass
-1210;'0230;Gathering of wild growing materials: lac and resins
-1210;'0230;Gathering of wild growing materials: mosses and lichens
-1210;'0230;Gathering of wild growing materials: vegetable hair
-1210;'0230;Reeds cutting, independent
-1112;'0230;Mushroom gathering in the wild
-1112;'0230;Olives gathering in the wild
-1112;'0230;Pumpkins gathering in the wild
-1112;'0230;Truffles gathering in the wild
-1210;'0230;Balsam needle gathering
-1210;'0230;Bamboo growing and cutting in the wild
-1210;'0230;Barks gathering
-1210;'0230;Bird nest gathering
-1210;'0230;Eucalyptus plant gathering in the forest
-1210;'0230;Forest product gathering
-1210;'0230;Ginseng gathering
-1210;'0230;Gums gathering
-1210;'0230;Herbs gathering
-1210;'0230;Hieracium seed collecting/gathering
-1210;'0230;Kauri gum digging
-1210;'0230;Leaf collecting/gathering
-1210;'0230;Medicinal plant collecting
-1210;'0230;Needles gathering (pine)
-1210;'0230;Pine cone collecting/gathering
-1210;'0230;Pine gum extracting and gathering in the forest
-1210;'0230;Reed collecting/gathering
-1210;'0230;Resin collecting/gathering
-1210;'0230;Roots gathering (in forest)
-1210;'0230;Sap collecting/gathering
-1210;'0230;Saps concentrating and distilling (own plants)
-1210;'0230;Sedge gathering (grass-like plant - triangular stems)
-1210;'0230;Spanish moss gathering (called vegetable horsehair)
-1210;'0230;Sphagnum moss collecting/gathering
-1210;'0230;Teaberry gathering (forest)
-1210;'0230;Uncultivated materials and seeds collecting/gathering
-1210;'0230;Wild flower and fruit collecting/gathering
-1210;'0230;Wild rubber gathering
-1210;'0230;Withy gathering (strong flexible twig)
-1210;'0240;Forestry service activities: forest fire fighting and protection
-1210;'0240;Forestry service activities: forest management consulting services
-1210;'0240;Forestry service activities: forest pest control
-1210;'0240;Forestry service activities: forestry inventories
-1210;'0240;Forestry service activities: timber evaluation
-1210;'0240;Logging service activities: transport of logs in the forest
-1210;'0240;Support services to forestry
-1210;'0240;Cane cutting services
-1210;'0240;Fire-fighting (in forest)
-1210;'0240;Forest fire fighting/protection services
-1210;'0240;Forest tree mensuration services
-1210;'0240;Forest tree pruning services
-1210;'0240;Forest tree thinning services
-1210;'0240;Forestry services
-1210;'0240;Pest control service, forestry
-1210;'0240;Reforestation services
-1210;'0240;Silvicultural services
-1210;'0240;Timber cruising
-1210;'0240;Timber evaluation
-1210;'0240;Timber plantation maintenance services
-1210;'0240;Timber tract maintenance services
-1220;'0240;Logs transportation, in association with logging mainly within the forest
-1310;'0311;Commercial fishing (marine)
-1310;'0311;Commercial rod fishing (marine)
-1310;'0311;Crab fishing (marine)
-1310;'0311;Crayfish fishing (marine)
-1310;'0311;Abalone fishing (marine)
-1310;'0311;Activities of vessels engaged both in fishing and in processing and preserving of fish
-1310;'0311;Algae gathering (marine)
-1310;'0311;Aquatic animals hunting (marine)
-1310;'0311;Aquatic invertebrates hunting (marine)
-1310;'0311;Beach seine fishing
-1310;'0311;Bottom single/pair trawling
-1310;'0311;Coastal fishing, commercial
-1310;'0311;Coral gathering (marine)
-1310;'0311;Crab, saltwater, fishing
-1310;'0311;Crayfish fishing and potting
-1310;'0311;Crayfish, saltwater, fishing
-1310;'0311;Crustaceans aboard the fishing boats processing
-1310;'0311;Crustaceans fishing (marine)
-1310;'0311;Cuttlefish fishing (marine)
-1310;'0311;Danish seine fishing (marine)
-1310;'0311;Drag net or drift net fishing (marine)
-1310;'0311;Dredging fishing (marine)
-1310;'0311;Echinoderms hunting (marine invertebrate)
-1310;'0311;Eel fishing (marine)
-1310;'0311;Encircling gear fishing (marine)
-1310;'0311;Finfish trawling (marine)
-1310;'0311;Fish processing aboard the fishing boats (marine)
-1310;'0311;Fish trolling (marine)
-1310;'0311;Fishing on a commercial basis in ocean and coastal waters (For fishing practiced for sport or recreation and related services, see 9319)
-1310;'0311;Gathering of other marine organisms and materials: natural pearls, sponges, coral and algae
-1310;'0311;Gill net fishing (marine)
-1310;'0311;Hand line fishing (marine)
-1310;'0311;Kelp collecting/gathering (marine)
-1310;'0311;Laver (algae) collection (marine)
-1310;'0311;Laver toasting as part of collecting (marine)
-1310;'0311;Line or long line fishing (marine)
-1310;'0311;Marine crustaceans and molluscs taking
-1310;'0311;Marine fisheries services activities
-1310;'0311;Marine fishing
-1310;'0311;Marine materials gathering
-1310;'0311;Marine water fishery products gathering
-1310;'0311;Natural pearls gathering (marine)
-1310;'0311;Ocean fishing
-1310;'0311;Oyster collecting/gathering (in wild) (marine)
-1310;'0311;Oyster fishing (except from cultivated oyster beds) (marine)
-1310;'0311;Pearling (marine)
-1310;'0311;Potting fishing (marine)
-1310;'0311;Prawn fishing (marine)
-1310;'0311;Prawn fishing and processing  (aboard a vessel at sea)
-1310;'0311;Rock lobster fishing and processing aboard vessel at sea
-1310;'0311;Rock lobster fishing or potting (marine)
-1310;'0311;Salmon fishery (marine)
-1310;'0311;Sea urchins or other echinoderms hunting
-1310;'0311;Seafood collecting/gathering
-1310;'0311;Seashell collecting/gathering
-1310;'0311;Sea-squirts hunting
-1310;'0311;Seaweed collecting/gathering
-1310;'0311;Seaweed or algae harvesting
-1310;'0311;Set line fishing (marine)
-1310;'0311;Set net fishing (marine)
-1310;'0311;Shellfish collecting/gathering (marine)
-1310;'0311;Snail gathering (fishing) (marine)
-1310;'0311;Snapper line fishing (marine)
-1310;'0311;Sponges gathering (marine)
-1310;'0311;Squid jigging
-1310;'0311;Taking of marine aquatic animals: turtles, sea squirts, tunicates, sea urchins etc
-1310;'0311;Taking of marine crustaceans and molluscs
-1310;'0311;Tonging oyster (marine)
-1310;'0311;Tuna fisheries
-1310;'0311;Tunicates hunting
-1310;'0311;Turtle gathering (marine)
-1310;'0311;Turtle hunting (marine)
-1310;'0311;Water molluscs catching (marine)
-1310;'0311;Whale catching
-1310;'0311;Whale fishing
-1310;'0311;Whaling
-1310;'0311;Winkle gathering (edible shellfish) (marine)
-1310;'0312;Commercial fishing (freshwater)
-1310;'0312;Commercial rod fishing (freshwater)
-1310;'0312;Crab fishing (freshwater)
-1310;'0312;Crayfish fishing (freshwater)
-1310;'0312;Freshwater fisheries services activities
-1310;'0312;Abalone fishing (freshwater)
-1310;'0312;Algae gathering (freshwater)
-1310;'0312;Aquatic animals hunting (freshwater)
-1310;'0312;Aquatic invertebrates hunting (freshwater)
-1310;'0312;Coral gathering (freshwater)
-1310;'0312;Crustaceans fishing (freshwater)
-1310;'0312;Cuttlefish fishing (freshwater)
-1310;'0312;Danish seine fishing (freshwater)
-1310;'0312;Drag net or drift net fishing (freshwater)
-1310;'0312;Dredging fishing (freshwater)
-1310;'0312;Eel fishing (freshwater)
-1310;'0312;Encircling gear fishing (freshwater)
-1310;'0312;Finfish trawling (freshwater)
-1310;'0312;Fish processing aboard the fishing boats (freshwater)
-1310;'0312;Fish trolling (freshwater)
-1310;'0312;Fishing on a commercial basis in inland waters
-1310;'0312;Fresh water fishing
-1310;'0312;Freshwater crustaceans and molluscs taking
-1310;'0312;Freshwater fishing
-1310;'0312;Gathering of freshwater materials
-1310;'0312;Gill net fishing (freshwater)
-1310;'0312;Hand line fishing (freshwater)
-1310;'0312;Inland hook or line fishing
-1310;'0312;Inland waters fishing, commercial
-1310;'0312;Kelp collecting/gathering (freshwater)
-1310;'0312;Lake fishing
-1310;'0312;Laver (algae) collection (freshwater)
-1310;'0312;Laver toasting as part of collecting (freshwater)
-1310;'0312;Line or long line fishing (freshwater)
-1310;'0312;Natural pearls gathering (freshwater)
-1310;'0312;Oyster collecting/gathering (in wild) (freshwater)
-1310;'0312;Oyster fishing (except from cultivated oyster beds) (freshwater)
-1310;'0312;Pearling (freshwater)
-1310;'0312;Potting fishing (freshwater)
-1310;'0312;Prawn fishing (freshwater)
-1310;'0312;River fishing
-1310;'0312;Rock lobster fishing or potting (freshwater)
-1310;'0312;Salmon fishery (freshwater)
-1310;'0312;Set line fishing (freshwater)
-1310;'0312;Set net fishing (freshwater)
-1310;'0312;Shellfish collecting/gathering (freshwater)
-1310;'0312;Snail gathering (fishing) (freshwater)
-1310;'0312;Snapper line fishing (freshwater)
-1310;'0312;Sponges gathering (freshwater)
-1310;'0312;Taking of freshwater aquatic animals
-1310;'0312;Taking of freshwater crustaceans
-1310;'0312;Taking of freshwater molluscs
-1310;'0312;Tonging oyster (freshwater)
-1310;'0312;Turtle gathering (freshwater)
-1310;'0312;Turtle hunting (freshwater)
-1310;'0312;Water molluscs catching (freshwater)
-1310;'0312;Whitebait catching
-1310;'0312;Winkle gathering (edible shellfish) (freshwater)
-1320;'0321;Aquaculture activities in brackish waters
-1320;'0321;Aquaculture activities in salt water filled reservoirs
-1320;'0321;Aquaculture activities in salt water filled tanks
-1320;'0321;Culture of crustaceans, bivalves, other molluscs and other aquatic animals in sea water
-1320;'0321;Fish farming in sea water, including farming of marine ornamental fish (for operation of sport fishing preserves, see 9319)
-1320;'0321;Marine aquaculture
-1122;'0321;Crocodile farming (Marine)
-1320;'0321;Crustaceans breeding or farming (marine)
-1320;'0321;Crustaceans seeds (fish) hatcheries operation (marine)
-1320;'0321;Edible sea-weeds growing (marine)
-1320;'0321;Fingerlings hatcheries operation (marine)
-1320;'0321;Fish breeding and farming (marine)
-1320;'0321;Fish farms operators services activities (marine)
-1320;'0321;Fish hatchery operation (marine)
-1320;'0321;Fish pond (breeding) (marine)
-1320;'0321;Fish, fry, hatcheries operation (marine)
-1320;'0321;Growing of laver
-1320;'0321;Growing of other edible seaweeds
-1320;'0321;Laver (marine algae) growing (marine)
-1320;'0321;Laver toasting as part of growing (marine)
-1320;'0321;Lobsterlings (fish) hatcheries operation (marine)
-1320;'0321;Mussel (fish) hatcheries operation (marine)
-1320;'0321;Mussel farming (marine)
-1320;'0321;Operation of fish hatcheries (marine)
-1320;'0321;Operation of marine worm farms
-1320;'0321;Oyster bed farming (marine)
-1320;'0321;Oyster breeding/cultivation for pearls or food (marine)
-1320;'0321;Oyster farming (marine)
-1320;'0321;Oyster rearing for pearls or food (marine)
-1320;'0321;Oyster spat hatcheries operation (marine)
-1320;'0321;Pearl oyster farming (marine)
-1320;'0321;Post-larvae shrimp (fish) hatcheries operation (marine)
-1320;'0321;Prawn seed producing and farming activities (marine)
-1320;'0321;Production of bivalve spat (oyster mussel etc.), lobsterlings, shrimp post-larvae, fish fry and fingerlings
-1320;'0321;Salmon hatchery operation (marine)
-1320;'0321;Shallow water culture (farming) (marine)
-1320;'0321;Shellfish farming (marine)
-1320;'0321;Spat (fish) hatcheries operation (marine)
-1320;'0321;Trout breeding or farming (marine)
-1320;'0321;Trout hatchery operation (marine)
-1320;'0321;Water molluscs raising (marine)
-1320;'0321;Yabbie fishing or farming (marine)
-1122;'0322;Crocodile farming (Freshwater)
-1122;'0322;Farming of frogs
-1320;'0322;Culture of freshwater crustaceans, bivalves, other molluscs and other aquatic animals
-1122;'0322;Frogs breeding (Freshwater)
-1122;'0322;Frogs breeding (Marine)
-1320;'0322;Crustaceans breeding or farming (fresh water)
-1320;'0322;Crustaceans seeds (fish) hatcheries operation (fresh water)
-1320;'0322;Edible sea-weeds growing (fresh water)
-1320;'0322;Fingerlings hatcheries operation (fresh water)
-1320;'0322;Fish breeding and farming (fresh water)
-1320;'0322;Fish farming in freshwater including farming of freshwater ornamental fish (for operation of sport fishing preserves, see 9319)
-1320;'0322;Fish farms operators services activities (fresh water)
-1320;'0322;Fish hatchery operation (fresh water)
-1320;'0322;Fish pond (breeding) (fresh water)
-1320;'0322;Fish, fry, hatcheries operation (fresh water)
-1320;'0322;Freshwater aquaculture
-1320;'0322;Laver (marine algae) growing (fresh water)
-1320;'0322;Laver toasting as part of growing (fresh water)
-1320;'0322;Lobsterlings (fish) hatcheries operation (fresh water)
-1320;'0322;Mussel (fish) hatcheries operation (fresh water)
-1320;'0322;Mussel farming (fresh water)
-1320;'0322;Operation of fish hatcheries (freshwater)
-1320;'0322;Oyster bed farming (fresh water)
-1320;'0322;Oyster breeding/cultivation for pearls or food (fresh water)
-1320;'0322;Oyster farming (fresh water)
-1320;'0322;Oyster rearing for pearls or food (fresh water)
-1320;'0322;Oyster spat hatcheries operation (fresh water)
-1320;'0322;Pearl oyster farming (fresh water)
-1320;'0322;Post-larvae shrimp (fish) hatcheries operation (fresh water)
-1320;'0322;Prawn seed producing and farming activities (fresh water)
-1320;'0322;Salmon hatchery operation (fresh water)
-1320;'0322;Shallow water culture (farming) (fresh water)
-1320;'0322;Shellfish farming (fresh water)
-1320;'0322;Spat (fish) hatcheries operation (fresh water)
-1320;'0322;Trout breeding or farming (fresh water)
-1320;'0322;Trout hatchery operation (fresh water)
-1320;'0322;Water molluscs raising (fresh water)
-1320;'0322;Yabbie fishing or farming (fresh water)
-2100;'0510;Recovery of hard coal from culm banks
-2100;'0510;Anthracite mining
-2100;'0510;Briquette manufacturing (at the mining site)
-2100;'0510;Char manufacturing (at the mining site)
-2100;'0510;Charcoal briquettes production (at mining site from agglomerated coal and lignite)
-2100;'0510;Cleaning, sizing, grading, pulverizing, compressing etc. of coal to classify
-2100;'0510;Cleaning, sizing, grading, pulverizing, compressing etc. of coal to facilitate storage
-2100;'0510;Cleaning, sizing, grading, pulverizing, compressing etc. of coal to facilitate transport
-2100;'0510;Cleaning, sizing, grading, pulverizing, compressing etc. of coal to improve quality
-2100;'0510;Coal agglomeration into briquettes and other compressed fuels at mining sites
-2100;'0510;Coal brick manufacturing (at mining site)
-2100;'0510;Coal briquette manufacturing (at mining site)
-2100;'0510;Coal crushing, pulverising, cleaning, screening and sizing plants, whether or not operated in conjunction with the mines served
-2100;'0510;Coal mining (hard coal)
-2100;'0510;Coke manufacturing at the mining site
-2100;'0510;Coke ovens operated at the coal mine
-2100;'0510;Colliery (mining) (hard coal)
-2100;'0510;Hydrogenation coal manufacturing (hard coal) by the mine
-2100;'0510;Open cast black coal mining
-2100;'0520;Washing, dehydrating, pulverizing, compressing of lignite to improve quality or facilitate transport or storage
-2100;'0520;Bituminous coal mining
-2100;'0520;Black coal breaking
-2100;'0520;Black coal colliery operation
-2100;'0520;Black coal exploration/mining
-2100;'0520;Black coal grading
-2100;'0520;Black coal washing or screening
-2100;'0520;Brown coal colliery operation
-2100;'0520;Brown coal exploration/mining
-2100;'0520;Coal mining (brown coal)
-2100;'0520;Colliery (mining) (brown coal)
-2100;'0520;Hydrogenation coal manufacturing (soft coal) by the mine
-2100;'0520;Lignite agglomeration into briquettes and other compressed fuels at the mining site
-2100;'0520;Lignite briquette manufacturing (at mining site)
-2100;'0520;Lignite exploration/mining
-2100;'0520;Open cast coal mine operation (soft coal)
-2100;'0520;Semi-anthracite mining
-2100;'0520;Soft coal mining
-2100;'0520;Sub-bituminous coal mining
-2211;'0610;Extraction of crude petroleum
-2211;'0610;Extraction of mines containing bituminous or oil shale and tar sand
-2211;'0610;Processes to obtain crude oils: decantation, desalting, dehydration, stabilization etc
-2211;'0610;The extraction of crude petroleum oils (for manufacture of refined petroleum products, see 1920)
-2211;'0610;Bituminous or oil sands or tar sands mining
-2211;'0610;Crude oil mining or stabilising
-2211;'0610;Crude petroleum desilting
-2211;'0610;Crude petroleum extraction
-2211;'0610;Crude petroleum oil distilling
-2211;'0610;Crude petroleum oil extraction
-2211;'0610;Crude petroleum production on site
-2211;'0610;Grading and building foundations at oil well locations, except on contract
-2211;'0610;Oil sand digging
-2211;'0610;Oil shale mining
-2211;'0610;Oil well extraction
-2211;'0620;Crude gaseous hydrocarbon (natural gas) production
-2211;'0620;Draining of liquid hydrocarbon fractions
-2211;'0620;Exploration for petroleum and natural gas, independent
-2211;'0620;Extraction of condensates
-2211;'0620;Extraction of natural gas
-2211;'0620;Gas desulphurization
-2211;'0620;Gas well extraction
-2211;'0620;Liquefied gas production at wellhead
-2211;'0620;Liquefied petroleum gas (LPG) production (not at refineries)
-2211;'0620;Liquified natural gas production at wellhead
-2211;'0620;Natural gas extraction
-2211;'0620;Natural gas production on site
-2211;'0620;Natural gas separation at the wellhead
-2211;'0620;Production of crude gaseous hydrocarbon (natural gas) (but, for manufacture of industrial gases, see 2011)
-2211;'0620;Separation of liquid hydrocarbon fractions
-2410;'0710;Agglomeration of iron ores
-2410;'0710;Beneficiation of iron ores
-2410;'0710;Beneficiating or dressing of iron ores
-2410;'0710;Bog ore working
-2410;'0710;Iron ore agglomeration and pelletising
-2410;'0710;Iron ore mining, beneficiating and preparing of such ores
-2410;'0710;Iron sand exploration
-2410;'0710;Iron sand mining
-2410;'0710;Iron sand mining, beneficiating and preparing of such ores
-2410;'0710;Magnetite mining, beneficiating and preparing of such ores
-2410;'0710;Production of sintered iron ore
-2410;'0710;Siderite ore mining (mineral form of ferrous carbonate)
-2410;'0710;Sintering of iron ore at mine
-2410;'0710;Taconite mining (variety of chert (siliceous rock) containing magnitite and hematite, mined as low grade iron ore)
-2410;'0710;Titaniferous iron ore, beneficiating and preparing of such ores
-2410;'0710;Washing iron ore at quarry
-2300;'0721;Beneficiating or dressing of uranium ores
-2300;'0721;Concentration of  thorium ores (for enrichment of thorium ores, see 2011)
-2300;'0721;Concentration of uranium ores (for enrichment of uranium ores, see 2011) and (for smelting and refining of uranium, see 2420)
-2300;'0721;Production of yellowcake
-2300;'0721;Radio-active metal ore mining
-2300;'0721;Radium-bearing ore dressing and beneficiating (found in pitchblende and uranium ores)
-2300;'0721;Thorium ore mining
-2300;'0721;Uranium ore mining
-2300;'0729;Preparation of gold
-2300;'0729;Alluvial gold mining
-2300;'0729;Beneficiating or dressing of gold ores
-2300;'0729;Gold bullion production
-2300;'0729;Gold dredging
-2300;'0729;Gold drift mining
-2300;'0729;Gold mining
-2300;'0729;Gold ores roasting  and  flotation extraction including metallurgical hydro-extraction
-2300;'0729;Gold sluicing/washing
-2300;'0729;Gold, gravity concentrating
-2300;'0729;Gold, hydraulic mining
-2300;'0729;Gold, placer mine
-2300;'0729;Gravity concentrating, gold
-2300;'0729;Reclamation of gold from minedumps
-2300;'0729;Reworking of mullock heaps or tailings for gold
-2300;'0729;Sulfuric acid production (by-products of gold mines)
-2300;'0729;Sylvanite mining (ore of gold or native telluride of gold)
-2900;'0729;Gold mining contract services
-2421;'0729;Preparation of chrome
-2421;'0729;Chrome mining
-2421;'0729;Chromium ores mining
-2900;'0729;Chrome mining contract services
-2422;'0729;Preparation of copper
-2422;'0729;Beneficiating or dressing of copper ores
-2422;'0729;Copper and copper ore mining
-2422;'0729;Copper ore leaching
-2422;'0729;Cuprite mining (major copper ore - native cuprous oxide)
-2422;'0729;Electro-won copper production
-2900;'0729;Copper mining contract services
-2423;'0729;Preparation of manganese
-2423;'0729;Manganese mining
-2423;'0729;Manganese ore mining
-2900;'0729;Manganese mining contract services
-2424;'0729;Preparation of platinum (ruthenium, rhodium, palladium, osmium, iridium and platinum)
-2424;'0729;Platinum group metals mining
-2424;'0729;Platinum ore mining
-2900;'0729;Platinum mining contract services
-2429;'0729;Aluminium mining, including the dressing , beneficiating and preparing of such ores
-2429;'0729;Aluminium ore mining
-2429;'0729;Antimony ore mining
-2429;'0729;Bauxite mining
-2429;'0729;Beneficiating or dressing of lead ores
-2429;'0729;Beneficiating or dressing of nickel ores
-2429;'0729;Beneficiating or dressing of silver ores
-2429;'0729;Beneficiating or dressing of tin ores
-2429;'0729;Beneficiating or dressing of zinc ores
-2429;'0729;Beryllium ore mining
-2429;'0729;Bismuth ore mining
-2429;'0729;Cassiterite mining (tinstone)
-2429;'0729;Cobalt mining, including the dressing, beneficiating and preparing of such ores
-2429;'0729;Ferro-alloys mining, including the dressing, beneficiating and preparing of such ores
-2429;'0729;Galena ore mining (bluish, grey or black ore of lead sulphite)
-2429;'0729;Glucinum ore mining (beryllium)
-2429;'0729;Ilmenite sand mining (black ore of titanium)
-2429;'0729;Iridium ore mining
-2429;'0729;Lead mining, including the dressing, beneficiating and preparing of such ores
-2429;'0729;Lead ore mining
-2429;'0729;Leucoxene sand mining
-2429;'0729;Mercury mining
-2429;'0729;Metallic ore mining
-2429;'0729;Nickel mining, including the dressing, beneficiating and preparing of such ores
-2429;'0729;Nickel ore mining
-2429;'0729;Other mining of non-ferrous metal ores n.e.c
-2429;'0729;Preparation of aluminium (bauxite) ores
-2429;'0729;Preparation of cobalt
-2429;'0729;Preparation of lead
-2429;'0729;Preparation of molybdenum
-2429;'0729;Preparation of nickel
-2429;'0729;Preparation of other non-ferrous metal ores
-2429;'0729;Preparation of silver
-2429;'0729;Preparation of tin
-2429;'0729;Preparation of vanadium
-2429;'0729;Preparation of zinc
-2429;'0729;Rutile sand mining (titanium dioxide mineral)
-2429;'0729;Scheelite ore mining (tungsten)
-2429;'0729;Scoria (scoriae) quarrying (porous cinderlike (slag) fragments of dark lava)
-2429;'0729;Silver mining, including the dressing, beneficiating and preparing of such ores
-2429;'0729;Silver ore mining
-2429;'0729;Silver-lead-zinc ore mining
-2429;'0729;Sintering of non-ferrous metal ore
-2429;'0729;Smithsonite mining (calamine - zinc carbonate)
-2429;'0729;Sphalerite ore mining (an ore that is the chief source of zinc sulfide/zinc blende)
-2429;'0729;Synthetic rutile sand mining
-2429;'0729;Tantalite ore mining
-2429;'0729;Tantalum ore mining, including the dressing, beneficiating and preparing of such ores
-2429;'0729;Tin mining, including the dressing, beneficiating and preparing of such ores
-2429;'0729;Tin ore mining
-2429;'0729;Titanium ore mining
-2429;'0729;Tungsten ore dressing and beneficiating
-2429;'0729;Tungsten ore mining
-2429;'0729;Vanadium mining, including the dressing, beneficiating and preparing of such ores
-2429;'0729;Vanadium ore mining
-2429;'0729;Willemite mining (minor ore of zinc)
-2429;'0729;Wolframite or wolfram ore mining (tungstate of iron and manganese)
-2429;'0729;Zinc blende ore mining
-2429;'0729;Zinc mining, including the dressing, beneficiating and preparing of such ores
-2429;'0729;Zinc ore mining
-2429;'0729;Zincite mining (a rare red, native zinc oxide)
-2429;'0729;Zirconium ore mining, not gemstone
-2531;'0729;Strontium mining
-2900;'0729;Metal ore mining contract services (Other n.e.c.)
-2511;'0810;Quarrying of dimension stone
-2511;'0810;Quarrying of monumental and building stone such as marble, granite, wonderstone, slate etc
-2511;'0810;Rough trimming of monumental and building stone such as marble, granite, wonderstone, slate etc
-2511;'0810;Sawing of monumental and building stone such as marble, granite, wonderstone, slate etc
-2519;'0810;Quarrying of sandstone
-2511;'0810;Dimension stone quarrying
-2511;'0810;Granite quarrying
-2511;'0810;Marble quarrying
-2511;'0810;Slate dressing
-2511;'0810;Slate mining or quarrying
-2511;'0810;Wonder stone quarrying
-2519;'0810;Basalt quarrying
-2519;'0810;Calcareous tufa quarrying
-2519;'0810;Ornamental rock gathering
-2512;'0810;Breaking of limestone
-2512;'0810;Crushing of limestone
-2512;'0810;Quarrying of limestone
-2512;'0810;Quarrying of limestone and limeworks
-2512;'0810;Lime crushing on site
-2512;'0810;Lime quarrying
-2512;'0810;Limestone quarrying and limeworks
-2519;'0810;Bath stone mining
-2519;'0810;Brick shale quarrying
-2519;'0810;Cement shale quarrying
-2519;'0810;Nepheline syenite mining
-2519;'0810;Abrasive sand quarrying
-2519;'0810;Ballast quarrying
-2519;'0810;Bentonite quarrying
-2519;'0810;Blue metal stone quarrying
-2519;'0810;Breaking of gravel
-2519;'0810;Breaking of stone
-2519;'0810;Cement clay quarrying
-2519;'0810;Cement rock quarrying
-2519;'0810;Chalk quarrying
-2519;'0810;Clay pit
-2519;'0810;Clay quarrying
-2519;'0810;Crushing of gravel
-2519;'0810;Crushing of stone
-2519;'0810;Dolomite extraction
-2519;'0810;Dolomite stone quarrying
-2519;'0810;Dredging of gravel
-2519;'0810;Dredging of industrial sand
-2519;'0810;Dredging of sand for construction 
-2519;'0810;Earth, soil or filling quarrying
-2519;'0810;Extraction of gravel
-2519;'0810;Extraction of industrial sand
-2519;'0810;Extraction of sand for construction
-2519;'0810;Flint clay extraction
-2519;'0810;Flint quarrying
-2519;'0810;Fuller's earth quarrying and extraction
-2519;'0810;Gravel pit
-2519;'0810;Gravel quarrying and grinding
-2519;'0810;Gravel screening
-2519;'0810;Grit quarrying
-2519;'0810;Gypsum mining and extraction
-2519;'0810;Kaolin quarrying and extraction
-2519;'0810;Other quarrying of stone, sand and clay
-2519;'0810;Pebble quarrying and screening
-2519;'0810;Potters clay quarrying
-2519;'0810;Pulpstone quarrying
-2519;'0810;Quarrying of sand
-2519;'0810;Quartz sand quarrying
-2519;'0810;Quartzite mining
-2519;'0810;Rhyolite quarrying (previously called liparite)
-2519;'0810;River gravel quarrying
-2519;'0810;Road fill quarrying
-2519;'0810;Road stone quarrying
-2519;'0810;Sand dredging
-2519;'0810;Sand pit/sand quarrying
-2519;'0810;Sand quarrying (natural - other than metal-bearing)
-2519;'0810;Sand screening operation
-2519;'0810;Sand washing and grinding
-2519;'0810;Sandstone quarrying
-2519;'0810;Serpentine mining or quarrying (soft rock of hydrated magnesium silicate)
-2519;'0810;Shale quarrying
-2519;'0810;Shale quarrying, except oil shale
-2519;'0810;Shingle quarrying (small rounded pebbles)
-2519;'0810;Silica mining
-2519;'0810;Silica sand mining
-2519;'0810;Silica stone quarrying
-2519;'0810;Slip clay quarrying
-2519;'0810;Soil quarrying
-2519;'0810;Stone block cutting and rough shaping (quarrying)
-2519;'0810;Stone crushing whether situated at mine or not
-2519;'0810;Stone quarrying
-2519;'0810;Tiler's clay quarrying
-2519;'0810;Trass earth quarrying (trass is a variety of tuff (rock formed by consolidation of volcanic ash) used to make cement)
-2519;'0810;Travertine mining or quarrying (a white-coloured rock deposited from springwater-a concretionary form of calcium carbonate)
-2519;'0810;Volcanic rock quarrying
-2519;'0810;Washing ballast (coarse gravel or rock) at mine
-2519;'0810;Whiting quarrying or mining (chalk)
-2531;'0891;Phosphate rock mining
-2531;'0891;Phosphates mining
-2531;'0891;Crude potassium mining
-2531;'0891;Green sand mining (containing glauconite)
-2531;'0891;Barium carbonate mining
-2531;'0891;Baryte mining
-2531;'0891;Borate mineral mining
-2531;'0891;Chemical mineral mining
-2531;'0891;Extraction of pyrites, except roasting
-2531;'0891;Extraction pyrrhotites, except roasting
-2531;'0891;Fluorspar mining
-2531;'0891;Guano mining
-2531;'0891;Iron pyrite ore mining
-2531;'0891;Natural sulphur mining
-2531;'0891;Nitrate mineral mining
-2531;'0891;Other mining of chemical and fertilizer minerals
-2531;'0891;Potash mining
-2531;'0891;Preparation of pyrites, except roasting
-2531;'0891;Preparation of pyrrhotites, except roasting
-2531;'0891;Pyrites mining
-2531;'0891;Pyrrhotites mining
-2531;'0891;Sulphur mining
-2531;'0891;Sulphur ores mining
-2100;'0892;Extraction of peat
-2100;'0892;Peat agglomeration
-2100;'0892;Peat digging
-2100;'0892;Preparation of peat to facilitate storage
-2100;'0892;Preparation of peat to facilitate transport
-2100;'0892;Preparation of peat to improve quality
-2100;'0892;Peat cutting
-2100;'0892;Peat digging/mining
-2532;'0893;Crushing of salt by the producer (not edible)
-2532;'0893;Extraction of salt
-2532;'0893;Extraction of salt from underground including by dissolving
-2532;'0893;Extraction of salt from underground including by pumping
-2532;'0893;Purification of salt by the producer (not edible)
-2532;'0893;Refining of salt by the producer (not edible) (for processing of salt into food-grade salt, e.g. iodized salt, see 1079)
-2532;'0893;Salt production by evaporation of  other saline waters
-2532;'0893;Salt production by evaporation of sea water
-2531;'0893;Borax mining
-2531;'0893;Saltpetre mining
-2531;'0893;Soda ash mining or quarrying
-2531;'0893;Sodium compound mining
-2531;'0893;Sodium mining
-2531;'0893;Sulphate mining
-2531;'0893;Sulphate sodium mining
-2532;'0893;Alum mining
-2532;'0893;Rock salt mining
-2532;'0893;Salt evaporating
-2532;'0893;Salt extraction and processing
-2532;'0893;Salt mining
-2532;'0893;Salt pan operation
-2532;'0893;Salt, not edible, refining
-2532;'0893;Unrefined salt collection or harvesting
-2532;'0893;Well brine mining (salt)
-2520;'0899;Alluvial diamond diggings
-2520;'0899;Commercial diving for diamonds
-2520;'0899;Diamond mining
-2539;'0899;Barite mining
-2539;'0899;Chrysoprase mining
-2539;'0899;Emerald crystals mining
-2539;'0899;Garnet mining
-2539;'0899;Gemstone mining
-2539;'0899;Green stone quarrying
-2539;'0899;Jade mining
-2539;'0899;Kyanite, gem, mining
-2539;'0899;Opal mining
-2539;'0899;Precious stone digging (except diamonds)
-2539;'0899;Precious stone mining (except diamonds)
-2539;'0899;Quarrying of gemstones
-2539;'0899;Quarrying of quartz
-2539;'0899;Semi-precious stone mining (except diamonds)
-2539;'0899;Tiger eye mining
-2539;'0899;Topaz mining (any of various gemstones - transparent aluminium silicate mineral)
-2539;'0899;Tourmaline mining or quarrying (a hard crystalline mineral used in jewellry as a gemstone and in electrical optical instruments)
-2539;'0899;Quarrying of asbestos
-2539;'0899;Other mining and quarrying n.e.c
-2539;'0899;Quarrying of abrasive materials
-2539;'0899;Quarrying of asphaltites and asphaltic rock
-2539;'0899;Quarrying of feldspar
-2539;'0899;Quarrying of mica
-2539;'0899;Quarrying of natural asphalt
-2539;'0899;Quarrying of natural graphite
-2539;'0899;Quarrying of natural solid bitumen
-2539;'0899;Quarrying of siliceous fossil meals
-2539;'0899;Quarrying of steatite (talc)
-2531;'0899;Alunite mining
-2531;'0899;Arsenic mining
-2531;'0899;Lithium minerals mining
-2531;'0899;Ochre mining and quarrying
-2531;'0899;Realgar mining (mineral of arsenic sulphate - called red arsenic)
-2531;'0899;Sienna mining (a brownish-yellowish clay used as a permanent pigment)
-2531;'0899;Strontianite mining (a native strontium carbonate)
-2531;'0899;Umber mining (pigment)
-2531;'0899;Witherite mining or quarrying (barium carbonate-mineral)
-2539;'0899;Asbestos mining
-2539;'0899;Abrasive stone mining
-2539;'0899;Abrasives natural mining
-2539;'0899;Alabaster mining
-2539;'0899;Alabaster, calcareous, unworked
-2539;'0899;Alabaster, gypseous, unworked
-2539;'0899;Andalusite mining
-2539;'0899;Asphalt mining
-2539;'0899;Bitumen mining
-2539;'0899;Corundum mining
-2539;'0899;Diatomite mining
-2539;'0899;Feldspar mining
-2539;'0899;Gilsonite mining (uintaite)
-2539;'0899;Glauconite mining
-2539;'0899;Gneiss quarrying
-2539;'0899;Graphite mining
-2539;'0899;Grindstone quarrying
-2539;'0899;Iceland spar mining (transparent calcite - used to polarize microscopes)
-2539;'0899;Kieselguhr mining
-2539;'0899;Kyanite, except gem, mining
-2539;'0899;Magnesite mining
-2539;'0899;Oil stone mining or quarrying
-2539;'0899;Pumice quarrying
-2539;'0899;Pumicite mining (same as pumice)
-2539;'0899;Quartz mining/quarrying
-2539;'0899;Rubbing stone quarrying
-2539;'0899;Schist (skist), mica, quarrying
-2539;'0899;Scythe stone mining or quarrying
-2539;'0899;Sillimanite mining
-2539;'0899;Soapstone mining
-2539;'0899;Sphalerite mineral mining (an isometric native zinc sulfide/sulphide - also called mock lead, galena or black-jack)
-2539;'0899;Steatite mining and grinding (talc/soapstone)
-2539;'0899;Talc mining/quarrying
-2539;'0899;Tripoli earth or stone mining or quarrying
-2539;'0899;Tripoli stone mining or quarrying (rotten stone)
-2539;'0899;Vermiculite mining
-2539;'0899;Whetstone quarrying
-2539;'0899;Wurtzilite mining or quarrying (wurtzite)
-2539;'0899;Wurtzite mining (a native zinc sulfide differing from sphalerite in its hexagonal structure)
-2539;'0899;Zeolite mining (any of a family of hydrous aluminum silicate minerals)
-2539;'0899;Zircon mining or quarrying
-2539;'0899;Zircon sand mining
-2212;'0910;Cementing gas well casings on a fee or contract basis
-2212;'0910;Cementing oil well casings on a fee or contract basis
-2212;'0910;"Derrick erection in situ, repairing and dismantling; pumping of wells; “Spudding in”; plugging and abandoning wells etc. on a fee or contract basis"
-2212;'0910;Directional drilling and redrilling on a fee or contract basis in connection with petroleum or gas extraction
-2212;'0910;Draining services, on a fee or contract basis (petroleum and natural gas)
-2212;'0910;Exploration services in connection with petroleum or gas extraction, e.g. traditional prospecting methods, such as making geological observations at prospective sites on a fee or contract basis
-2212;'0910;Liquefaction of natural gas for purpose of transport, done at the mine site on a fee or contract basis (for liquefaction of natural gas for purpose of transport, done off the mine site, see 5221)
-2212;'0910;Oil and gas field fire fighting services on a fee or contract basis
-2212;'0910;Pumping services, on a fee or contract basis (petroleum and natural gas)
-2212;'0910;Regasification of natural gas for purpose of transport, done at the mine site on a fee or contract basis (for regasification of natural gas for purpose of transport, done off the mine site, see 5221)
-2212;'0910;Support activities for petroleum and natural gas extraction
-2212;'0910;Test drilling in connection with petroleum or gas extraction on a fee or contract basis
-2211;'0910;Natural gas exploration on a fee or contract basis
-2211;'0910;Regasification and liquefaction of natural gas at oil or gas field (for transport purposes)
-2212;'0910;Acidizing oil wells, contract services
-2212;'0910;Bailing oil wells, contract service
-2212;'0910;Cementing oil and gas casings (fee or contract)
-2212;'0910;Crude petroleum oil well drilling services (pumping, plugging, and abandoning wells)
-2212;'0910;Crude petroleum oil well logging services
-2212;'0910;Excavating a sush pit and cellar at oil well, on contract
-2212;'0910;Gas field service activities
-2212;'0910;Grading and building foundations at oil well locations, on contract
-2212;'0910;Natural gas exploration services on fee or contract
-2212;'0910;Natural gas well logging services
-2212;'0910;Oil and gas extraction service activities - fee or contract
-2212;'0910;Oil and gas field services derrick building, spudding in, repairing, dismantling - (fee or contract)
-2212;'0910;Oil extraction on a fee basis
-2212;'0910;Oil pipe-line construction, on fee or contract basis
-2212;'0910;Oil pumping station construction contracting service at well
-2212;'0910;Oil well casing, contract service
-2212;'0910;Oil well cleaning and cementing, contract service
-2212;'0910;Oil well drilling, contract service
-2212;'0910;Oil well sinking, contract service
-2212;'0910;Pulling casings, tubes and rods at gas and oil well on contract or fee basis
-2212;'0910;Swabbing oil wells on contract services
-2900;'0990;Exploration services, e.g. traditional prospecting methods, such as taking core samples and making geological observations at prospective sites (mining activities) on a fee or contract basis
-2900;'0990;Service activities incidental to mining of minerals on a fee or contract basis
-2900;'0990;Support services on a fee or contract basis, required for mining activities of divisions 05, 07 and 08
-2900;'0990;Other support activities for other mining and quarrying n.e.c
-2900;'0990;Coal transport contract hauling services on mining site only
-2900;'0990;Removal of coal by subcontractors at mines
-2900;'0990;Stonedust barriers installation at coal mines, fee or contract basis
-2900;'0990;Subcontractor at gold mines installing steel structures
-2900;'0990;Subcontractor at gold mines transporting gold dust with cocoa-pans to refinery on contract (on site)
-2900;'0990;Subcontractor at gold mines who vacuums gold dust
-2900;'0990;Underground inspection services on locomotives, shovels, drills, and loaders (on contract at mines)
+9999;0000;Registered Directors of companies/ Members of Close Corporations/ Trusts, etc
+9999;0000;Individuals registered at SARS as individual with business but not own a business
+9999;0000;Foreign businesses registered at SARS for VAT for the purpose of claiming custom and excise duty for exporting products into South Africa
+9999;0000;DEPOT, ALL KINDS OF DEPOTS, INCLUDING BANKS
+1111;0111;Growing of cereals (except rice), leguminous crops and oil seeds
+1111;0111;Growing of cereals: barley
+1111;0111;Growing of cereals: grain maize
+1111;0111;Growing of cereals: millets
+1111;0111;Growing of cereals: oats
+1111;0111;Growing of cereals: rye
+1111;0111;Growing of cereals: sorghum
+1111;0111;Growing of cereals: wheat
+1111;0111;Growing of leguminous crops: beans
+1111;0111;Growing of leguminous crops: broad beans
+1111;0111;Growing of leguminous crops: chick peas
+1111;0111;Growing of leguminous crops: cow peas
+1111;0111;Growing of leguminous crops: lentils
+1111;0111;Growing of leguminous crops: lupins
+1111;0111;Growing of leguminous crops: peas
+1111;0111;Growing of leguminous crops: pigeon peas
+1111;0111;Growing of oil seeds: castor bean 
+1111;0111;Growing of oil seeds: groundnuts
+1111;0111;Growing of oil seeds: linseed
+1111;0111;Growing of oil seeds: mustard seed
+1111;0111;Growing of oil seeds: niger seed
+1111;0111;Growing of oil seeds: rapeseed
+1111;0111;Growing of oil seeds: safflower seed
+1111;0111;Growing of oil seeds: sesame seed
+1111;0111;Growing of oil seeds: soya beans
+1111;0111;Growing of oil seeds: sunflower seed
+1111;0111;Growing of other cereals n.e.c
+1111;0111;Growing of other leguminous crops
+1111;0111;Growing of other oil seeds
+1111;0111;Arrowroot farming
+1111;0111;Barley growing
+1111;0111;Beans, dried, production
+1111;0111;Broom millet growing
+1111;0111;Cereal grain growing
+1111;0111;Coarse grain growing
+1111;0111;Corn growing
+1111;0111;Dried leguminous vegetables production
+1111;0111;Dry field pea or field bean growing
+1111;0111;Field pea growing
+1111;0111;Garden pea growing
+1111;0111;Grain crop growing
+1111;0111;Grain sorghum growing
+1111;0111;Growing of cereal grains
+1111;0111;Haricot beans growing
+1111;0111;Lentil growing
+1111;0111;Lupin growing
+1111;0111;Maize (except sweetcorn) growing
+1111;0111;Oat growing
+1111;0111;Oilseed rape growing
+1111;0111;Oilseeds growing
+1111;0111;Oleaginous fruit and oleaginous nuts growing
+1111;0111;Pea growing
+1111;0111;Peanuts growing
+1111;0111;Peas growing (production)
+1111;0111;Pulse growing
+1111;0111;Rape and rape seed growing
+1111;0111;Safflower growing
+1111;0111;Sesame growing
+1111;0111;Sorghum growing
+1111;0111;Soya beans growing
+1111;0111;Soybean growing
+1111;0111;String bean growing
+1111;0111;Sunflower growing
+1111;0111;Sunflower seeds growing
+1111;0111;Triticale growing
+1111;0111;Wheat growing
+1112;0111;Beans, green, growing
+1113;0111;Mustard growing
+1111;0112;Growing of rice
+1111;0112;Rice growing
+1111;0113;Growing of sugar beet
+1112;0113;Growing of fruit bearing vegetables such as: cantaloupes
+1112;0113;Growing of fruit bearing vegetables such as: cucumbers
+1112;0113;Growing of fruit bearing vegetables such as: eggplants (aubergines)
+1112;0113;Growing of fruit bearing vegetables such as: gherkins
+1112;0113;Growing of fruit bearing vegetables such as: other melons
+1112;0113;Growing of fruit bearing vegetables such as: pumpkin
+1112;0113;Growing of fruit bearing vegetables such as: squash
+1112;0113;Growing of fruit bearing vegetables such as: sweet corn
+1112;0113;Growing of fruit bearing vegetables such as: tomatoes
+1112;0113;Growing of fruit bearing vegetables such as: watermelons
+1112;0113;Growing of leafy or stem vegetables: artichokes
+1112;0113;Growing of leafy or stem vegetables: asparagus
+1112;0113;Growing of leafy or stem vegetables: broccoli
+1112;0113;Growing of leafy or stem vegetables: cabbages
+1112;0113;Growing of leafy or stem vegetables: cauliflower
+1112;0113;Growing of leafy or stem vegetables: lettuce chicory
+1112;0113;Growing of leafy or stem vegetables: spinach
+1112;0113;Growing of mushrooms
+1112;0113;Growing of other fruit bearing vegetables
+1112;0113;Growing of other leafy vegetables
+1112;0113;Growing of other root, bulb or tuberous vegetables n.e.c
+1112;0113;Growing of other roots and tubers
+1112;0113;Growing of other stem vegetables
+1112;0113;Growing of other vegetables
+1112;0113;Growing of root, bulb or tuberous vegetables: carrots
+1112;0113;Growing of root, bulb or tuberous vegetables: garlic
+1112;0113;Growing of root, bulb or tuberous vegetables: leeks and other alliaceous vegetables
+1112;0113;Growing of root, bulb or tuberous vegetables: onions (incl. shallots)
+1112;0113;Growing of root, bulb or tuberous vegetables: turnips
+1112;0113;Growing of roots and tubers: cassava
+1112;0113;Growing of roots and tubers: potatoes
+1112;0113;Growing of roots and tubers: sweet potatoes
+1112;0113;Growing of roots and tubers: yams
+1112;0113;Growing of truffles
+1112;0113;Growing of vegetable seeds, except beet seeds
+1112;0113;Growing of vegetables and melons, roots and tubers
+1111;0113;Bean growing
+1111;0113;Cassava growing
+1111;0113;Chicory growing
+1111;0113;Chicory roots growing
+1111;0113;Roots growing
+1111;0113;Sugar beet growing
+1111;0113;Tubers growing - with a high starch or inulin content
+1112;0113;Asparagus growing
+1112;0113;Beetroot growing
+1112;0113;Broccoli growing
+1112;0113;Brussel sprout growing
+1112;0113;Cabbage growing
+1112;0113;Cantaloupe growing
+1112;0113;Carrot growing
+1112;0113;Cauliflower growing
+1112;0113;Celery growing
+1112;0113;Courgette growing (marrow)
+1112;0113;Cress growing
+1112;0113;Cucumbers growing
+1112;0113;Cultivated mushroom growing
+1112;0113;Fruit-bearing vegetables growing
+1112;0113;Garlic growing
+1112;0113;Gherkin growing
+1112;0113;Hot house tomato growing
+1112;0113;Hot house vegetable growing
+1112;0113;Kumara growing
+1112;0113;Leek growing
+1112;0113;Lettuce growing
+1112;0113;Marrow growing or gathering
+1112;0113;Melons growing
+1112;0113;Mushroom growing
+1112;0113;Onion growing
+1112;0113;Parsnip growing
+1112;0113;Potatoes growing
+1112;0113;Pumpkins growing
+1112;0113;Rhizomes growing
+1112;0113;Rhubarb growing
+1112;0113;Silverbeet growing
+1112;0113;Squash growing
+1112;0113;Sweet potatoes growing
+1112;0113;Sweetcorn growing
+1112;0113;Tomato growing
+1112;0113;Truffles growing
+1112;0113;Tuberous roots growing
+1112;0113;Turnip growing
+1112;0113;Vegetable growing
+1112;0113;Watercress growing
+1112;0113;Watermelons growing
+1111;0114;Growing of sugar cane
+1111;0114;Sugar cane growing
+1111;0114;Sugar cane plantation
+1111;0115;Growing of unmanufactured tobacco
+1111;0115;Preliminary tobacco leaf packing as part of farming
+1111;0115;Tobacco growing
+1111;0116;Growing of abaca
+1111;0116;Growing of cotton
+1111;0116;Growing of fibre crops
+1111;0116;Growing of flax 
+1111;0116;Growing of jute
+1111;0116;Growing of kenaf
+1111;0116;Growing of other fibre crops
+1111;0116;Growing of other textile bast fibres
+1111;0116;Growing of other textile fibre of the genus agave
+1111;0116;Growing of other vegetable textile fibres
+1111;0116;Growing of ramie
+1111;0116;Growing of sisal
+1111;0116;Growing of true hemp
+1111;0116;Cotton growing
+1111;0116;Flax growing
+1111;0116;Hemp growing
+1111;0116;Jute growing
+1111;0116;Linen flax growing
+1111;0116;Phormium flax growing
+1111;0116;Plants growing, containing vegetable textile fibres retting
+1111;0116;Ramie growing
+1111;0116;Vegetables textile materials growing
+1111;0119;Growing of beet seeds (excluding sugar beet seeds) 
+1111;0119;Growing of other non-perennial crops
+1111;0119;Growing of seeds of forage plants
+1111;0119;Growing of swedes, mangolds, fodder roots, clover, alfalfa, sainfoin, maize and other grasses, forage kale and similar forage products
+1112;0119;Growing of flower seeds (except sunflower seed)
+1112;0119;Growing of flowers
+1112;0119;Production of  flower buds
+1112;0119;Production of cut flowers
+1111;0119;Aloe vera growing
+1111;0119;Canary seed growing
+1111;0119;Clover seed growing
+1111;0119;Crops growing n.e.c. (non perennial)
+1111;0119;Fodder growing
+1111;0119;Forage sorghum growing
+1111;0119;Grain seed growing
+1111;0119;Grass seed growing
+1111;0119;Hay growing
+1111;0119;Lucerne growing
+1111;0119;Pasture seed growing
+1111;0119;Ryecorn growing
+1111;0119;Seeds production used for sowing and of sugar beet and forage plants
+1111;0119;Silage production
+1111;0119;Sudan grass production
+1111;0119;Teasel (also teazel or teazle) plant growing
+1111;0119;Turf growing (not in the wild)
+1112;0119;Bamboo growing and cutting (own) for ornamental purposes
+1112;0119;Carnation growing
+1112;0119;Display foliage growing
+1112;0119;Floriculture activities
+1112;0119;Flower buds growing
+1112;0119;Flower growing
+1112;0119;Flower seed growing
+1112;0119;Gerbera growing
+1112;0119;Gypsophila growing
+1112;0119;Lavender growing
+1112;0119;Living plants for planting or ornamental purposes growing
+1112;0119;Nursery products growing
+1112;0119;Orchid growing
+1112;0119;Plant nursery operation
+1112;0119;Rose growing
+1112;0119;Vine stock nursery operation
+1113;0121;Growing of grapes
+1113;0121;Growing of table grapes in vineyards
+1113;0121;Growing of wine grapes in vineyards
+1113;0121;Grape drying undertaken in conjunction with the growing thereof
+1113;0121;Grape growing
+1113;0121;Table grape growing
+1113;0121;Vineyard operation
+1113;0121;Viticulture activity (growing of grapes)
+1113;0121;Wine manufacturing, done at the same location as grape growing
+1113;0122;Bread fruit growing
+1113;0122;Avocado growing
+1113;0122;Babaco growing
+1113;0122;Banana growing
+1113;0122;Cherimoya growing
+1113;0122;Dates growing
+1113;0122;Feijoa growing
+1113;0122;Fig growing
+1113;0122;Growing of other tropical and subtropical fruits
+1113;0122;Growing of tropical and subtropical fruit: avocados
+1113;0122;Growing of tropical and subtropical fruit: bananas
+1113;0122;Growing of tropical and subtropical fruit: dates
+1113;0122;Growing of tropical and subtropical fruit: figs
+1113;0122;Growing of tropical and subtropical fruit: guavas
+1113;0122;Growing of tropical and subtropical fruit: mangoes
+1113;0122;Growing of tropical and subtropical fruit: papayas
+1113;0122;Growing of tropical and subtropical fruit: pineapples
+1113;0122;Growing of tropical and subtropical fruit: plantains
+1113;0122;Guavas growing
+1113;0122;Litchi growing
+1113;0122;Loquat growing
+1113;0122;Mango growing
+1113;0122;Passionfruit growing
+1113;0122;Pineapple growing and farming
+1113;0122;Sub-tropical fruit drying undertaken in conjunction with the growing thereof
+1113;0122;Subtropical fruit growing
+1113;0122;Tamarillo growing
+1113;0122;Tropical fruit drying undertaken in conjunction with the growing thereof
+1113;0123;Citrus fruit drying undertaken in conjunction with the growing thereof
+1113;0123;Citrus fruit grove
+1113;0123;Citrus fruit growing
+1113;0123;Citrus orchard (growing)
+1113;0123;Cumquat growing
+1113;0123;Grape fruit growing
+1113;0123;Growing of citrus fruits
+1113;0123;Growing of citrus fruits: clementines
+1113;0123;Growing of citrus fruits: grapefruit 
+1113;0123;Growing of citrus fruits: lemons 
+1113;0123;Growing of citrus fruits: limes
+1113;0123;Growing of citrus fruits: mandarins 
+1113;0123;Growing of citrus fruits: oranges
+1113;0123;Growing of citrus fruits: pomelo
+1113;0123;Growing of citrus fruits: tangerines
+1113;0123;Lemon growing
+1113;0123;Mandarin growing
+1113;0123;Nectarine growing
+1113;0123;Orange growing
+1113;0123;Persimmon growing
+1113;0123;Tangelo growing (partly pomelo and partly tangerine)
+1113;0124;Apples growing
+1113;0124;Apricot growing
+1113;0124;Asian pear growing
+1113;0124;Deciduous fruit growing (soft fruit)
+1113;0124;Growing of other pome fruits and stone fruits n.e.c
+1113;0124;Growing of pome fruits and stone fruits
+1113;0124;Growing of pome fruits and stone fruits: apples
+1113;0124;Growing of pome fruits and stone fruits: apricots
+1113;0124;Growing of pome fruits and stone fruits: cherries
+1113;0124;Growing of pome fruits and stone fruits: nectarines
+1113;0124;Growing of pome fruits and stone fruits: peaches
+1113;0124;Growing of pome fruits and stone fruits: pears
+1113;0124;Growing of pome fruits and stone fruits: plums
+1113;0124;Growing of pome fruits and stone fruits: quinces
+1113;0124;Growing of pome fruits and stone fruits: sloes
+1113;0124;Growing of pome fruits and stone fruits: sour cherries
+1113;0124;Nashi pear growing
+1113;0124;Orchard pipfruit growing
+1113;0124;Orchard stonefruit growing
+1113;0124;Peach growing
+1113;0124;Pear growing
+1113;0124;Plum or prune growing
+1113;0124;Pone fruit drying undertaken in conjunction with the growing thereof
+1113;0124;Quince growing
+1113;0124;Stone fruit drying undertaken in conjunction with the growing thereof
+1113;0125;Growing of other tree and bush fruits: locust beans
+1113;0125;Almond growing
+1113;0125;Berries growing
+1113;0125;Berryfruit growing
+1113;0125;Berryfruit orchard
+1113;0125;Blackberry growing
+1113;0125;Blackcurrant growing
+1113;0125;Blue berry growing
+1113;0125;Boysenberry growing
+1113;0125;Bush fruits and nuts drying undertaken in conjunction with the growing thereof
+1113;0125;Cashew nut growing
+1113;0125;Cherries growing
+1113;0125;Chestnut growing
+1113;0125;Cranberry growing
+1113;0125;Currant growing (red or black)
+1113;0125;Edible nuts growing
+1113;0125;Gooseberry growing
+1113;0125;Growing of berries: blueberries
+1113;0125;Growing of berries: currants
+1113;0125;Growing of berries: gooseberries
+1113;0125;Growing of berries: kiwi fruit
+1113;0125;Growing of berries: raspberries
+1113;0125;Growing of berries: strawberries
+1113;0125;Growing of edible nuts: almonds
+1113;0125;Growing of edible nuts: cashew nuts
+1113;0125;Growing of edible nuts: chestnuts
+1113;0125;Growing of edible nuts: hazelnuts
+1113;0125;Growing of edible nuts: pistachios
+1113;0125;Growing of edible nuts: walnuts
+1113;0125;Growing of fruit seeds
+1113;0125;Growing of other berries
+1113;0125;Growing of other edible nuts
+1113;0125;Growing of other tree and bush fruits and nuts
+1113;0125;Kiwifruit growing
+1113;0125;Loganberry growing
+1113;0125;Macadamia nut growing
+1113;0125;Mulberry growing
+1113;0125;Mulberry tree cultivating
+1113;0125;Nut bearing tree growing
+1113;0125;Nuts growing
+1113;0125;Pecan nut growing
+1113;0125;Raspberry growing
+1113;0125;Redcurrant growing
+1113;0125;Soft fruit growing
+1113;0125;Strawberry growing
+1113;0125;Walnut growing
+1111;0126;Growing of oleaginous fruits: oil palms
+1112;0126;Growing of oleaginous fruits: olives
+1113;0126;Growing of oleaginous fruits
+1113;0126;Growing of oleaginous fruits: coconuts
+1113;0126;Growing of other oleaginous fruits
+1111;0126;Oleaginous fruit growing
+1112;0126;Olives growing
+1113;0126;Coconut growing
+1113;0126;Oleaginous fruit drying undertaken in conjunction with the growing thereof
+1113;0127;Growing of beverage crops
+1113;0127;Growing of beverage crops: cocoa
+1113;0127;Growing of beverage crops: coffee
+1113;0127;Growing of beverage crops: maté
+1113;0127;Growing of beverage crops: tea
+1113;0127;Growing of other beverage crops
+1113;0127;Beverage crops growing
+1113;0127;Coffee growing
+1113;0127;Coffee of cocoa beans growing
+1113;0127;Mate leaves growing
+1113;0127;Tea drying and packing undertaken in conjunction with the growing thereof
+1113;0127;Tea leaves growing
+1113;0127;Tea plantation (farming)
+1111;0128;Growing of drug crops
+1111;0128;Growing of hops
+1111;0128;Growing of narcotic crops
+1111;0128;Growing of plants used primarily for insecticidal, fungicidal or similar purposes
+1111;0128;Growing of plants used primarily in perfumery
+1111;0128;Growing of plants used primarily in pharmacy
+1111;0128;Growing of vanilla
+1112;0128;Growing of chillies and peppers (capsicum spp.)
+1112;0128;Growing of fennel
+1113;0128;Growing of anise
+1113;0128;Growing of badian
+1113;0128;Growing of cardamoms
+1113;0128;Growing of cinnamon (canella)
+1113;0128;Growing of cloves
+1113;0128;Growing of ginger
+1113;0128;Growing of mace
+1113;0128;Growing of nutmeg
+1113;0128;Growing of pepper (piper spp.)
+1113;0128;Growing of other spices and aromatic crops
+1111;0128;Drug plants growing
+1111;0128;Herb growing
+1111;0128;Hop cones growing
+1111;0128;Hops growing
+1111;0128;Plant materials growing, used in pharmacy or for insecticides, fungicidal or similar purposes
+1111;0128;Vanilla bean growing
+1112;0128;Capers growing
+1112;0128;Capsicum growing
+1112;0128;Chervil growing
+1112;0128;Chilli farming
+1112;0128;Chive growing
+1112;0128;Fruit of the genus capsicum or pimenta or fennel growing
+1112;0128;Parsley growing
+1112;0128;Sweet marjoram growing
+1112;0128;Tarragon growing
+1113;0128;Aniseeds growing
+1113;0128;Basil leaves growing
+1113;0128;Bay leaves growing
+1113;0128;Cinnamon growing
+1113;0128;Cloves growing
+1113;0128;Coriander seeds growing
+1113;0128;Cumin seeds growing
+1113;0128;Ginger  growing
+1113;0128;Nutmeg growing
+1113;0128;Spanish hops growing (origanum/marjojam)
+1113;0128;Spice crops growing
+1113;0128;Spice fruit growing
+1113;0128;Spice leaves growing
+1113;0128;Spice seeds growing
+1113;0128;Thyme leaves growing
+1111;0129;Growing of other perennial crops
+1111;0129;Growing of rubber trees
+1111;0129;Growing of trees for extraction of sap (for extraction of sap in the wild, see 0230)
+1111;0129;Growing of vegetable materials of a kind used primarily for plaiting
+1112;0129;Growing of Christmas trees
+1111;0129;Crops growing n.e.c. (perennial)
+1111;0129;Plant material growing for plaiting, padding or stuffing or for brooms or brushes
+1111;0129;Rubber trees growing
+1112;0130;Operation of tree nurseries (for forest tree nurseries, see 0210)
+1112;0130;Plant propagation
+1112;0130;Bulb propagation
+1112;0130;Bulbs growing
+1112;0130;Corms growing
+1112;0130;Crowns growing
+1112;0130;Fruit tree nursery operation
+1112;0130;Growing of cuttings and slips
+1112;0130;Growing of live plants for bulbs
+1112;0130;Growing of mushroom spawn
+1112;0130;Growing of plants for ornamental purposes, including turf for transplanting
+1112;0130;Growing of plants for plating (for seed-production, see 011 and 012)
+1112;0130;Growing of tubers and roots
+1112;0130;Horticultural specialities growing or production
+1112;0130;Mushroom spawn growing
+1112;0130;Plant stock growing
+1112;0130;Seed potato growing
+1112;0130;Seedling growing
+1112;0130;Seedling plant growing
+1112;0130;Seedling plant production
+1112;0130;Seeds for flowers growing or production
+1112;0130;Seeds for fruit or vegetables production or growing (for propagation)
+1112;0130;Unrooted cuttings or slips production
+1112;0130;Vegetable seed growing
+1112;0130;Willow tree growing (nurseries)
+1140;0130;Crop growth promoting activities
+1121;0141;Beef farming
+1121;0141;Bovine semen production
+1121;0141;Breeding of buffaloes
+1121;0141;Breeding of cattle
+1121;0141;Buffalo, domesticated, grazing
+1121;0141;Butter production (on the farm)
+1121;0141;Cattle farming
+1121;0141;Cattle feedlot operation
+1121;0141;Cheese production undertaken in conjunction with farming activities
+1121;0141;Dairy farming
+1121;0141;Dairy products production, undertaken in conjunction with farming activities
+1121;0141;Livestock speculators - cattle and buffaloes
+1121;0141;Production of bovine semen
+1121;0141;Production of raw cow milk from buffaloes (for processing of milk, see 1050)
+1121;0141;Production of raw cow milk from cows (for processing of milk, see 1050)
+1121;0141;Raising of buffaloes
+1121;0141;Raising of cattle
+1121;0141;Raising of cattle and buffaloes
+1121;0141;Raw cattle milk production
+1121;0141;Share cattle milking operation principally (not town milk)
+1121;0142;Breeding of asses
+1121;0142;Breeding of horses, including racing horses (for operation of racing and riding stables, see 9319)
+1121;0142;Breeding of mules or hinnies
+1121;0142;Raising  of horses, including racing horses (for operation of racing and riding stables, see 9319)
+1121;0142;Raising of asses
+1121;0142;Raising of horses and other equines
+1121;0142;Raising of mules or hinnies
+1121;0142;Asses farming
+1121;0142;Bloodstock investment
+1121;0142;Hinnies farming
+1121;0142;Horse ranching
+1121;0142;Horse stud farm operation
+1121;0142;Horses farming
+1121;0142;Livestock speculators - horses and other equines
+1121;0142;Mules farming
+1121;0142;Stallion syndicate activities
+1121;0142;Stud-farming
+1121;0143;Breeding of camels (dromedary) and camelids
+1121;0143;Raising of camels (dromedary) and camelids
+1121;0143;Raising of camels and camelids
+1121;0143;Alpaca farming
+1121;0143;Livestock speculators - camels and camelids
+1121;0143;Llama farming
+1121;0143;Raw camel milk production
+1121;0144;Breeding of goats
+1121;0144;Breeding of sheep
+1121;0144;Production of raw goat milk (for processing of milk, see 1050)
+1121;0144;Production of raw sheep milk (for processing of milk, see 1050)
+1121;0144;Production of raw wool (for processing of pulled wool, see 1010)
+1121;0144;Raising of goats
+1121;0144;Raising of sheep
+1121;0144;Raising of sheep and goats
+1121;0144;Dairy goat farming
+1121;0144;Goats farming and breeding
+1121;0144;Livestock speculators - sheep and goats
+1121;0144;Prime lamb raising
+1121;0144;Raw sheep milk production
+1121;0144;Share goat milking operation principally (not town milk)
+1121;0144;Sheep farming and breeding
+1121;0144;Sheep ranching
+1121;0144;Sheep-shearing  by sheep owner
+1121;0144;Wool growing (raw)
+1122;0145;Breeding of swine (pigs)
+1122;0145;Raising of swine (pigs)
+1122;0145;Raising of swine/pigs
+1121;0145;Livestock speculators - swine/pig
+1122;0145;Pig farming
+1122;0145;Pig raising
+1122;0145;Swine raising
+1122;0146;Eggs production
+1122;0146;Livestock speculators - poultry
+1122;0146;Breeding of poultry: ducks
+1122;0146;Breeding of poultry: fowls of the species Gallus domesticus (chickens and capons)
+1122;0146;Breeding of poultry: geese
+1122;0146;Breeding of poultry: guinea fowls
+1122;0146;Breeding of poultry: turkeys
+1122;0146;Broiler farming
+1122;0146;Chicken farming (also slaughtering on farm)
+1122;0146;Chicken farming in conjunction with manufacturing (slaughtering, dressing or packing)
+1122;0146;Chicken hatchery operation for egg production
+1122;0146;Chicken hatchery operation for meat production
+1122;0146;Duck farming for meat
+1122;0146;Geese farming for meat
+1122;0146;Goose farming
+1122;0146;Operation of poultry hatcheries
+1122;0146;Poultry egg farm operation
+1122;0146;Poultry farming for meat
+1122;0146;Poultry hatcheries operation
+1122;0146;Poultry slaughtering undertaken in conjunction with farming
+1122;0146;Production of eggs
+1122;0146;Raising of poultry
+1122;0146;Raising of poultry: ducks
+1122;0146;Raising of poultry: fowls of the species Gallus domesticus (chickens and capons)
+1122;0146;Raising of poultry: geese
+1122;0146;Raising of poultry: guinea fowls
+1122;0146;Raising of poultry: turkeys
+1122;0146;Slaughter of poultry on the farm
+1122;0146;Turkey farming for meat
+1122;0149;Bee-keeping 
+1122;0149;Breeding of birds, such as parakeets etc. (pets)
+1122;0149;Breeding of cats (pets)
+1122;0149;Breeding of dogs (pets)
+1122;0149;Breeding of emus
+1122;0149;Breeding of hamsters etc. (pets)
+1122;0149;Breeding of insects
+1122;0149;Breeding of ostriches
+1122;0149;Breeding of other birds (except poultry)
+1122;0149;Breeding of other fur animals
+1122;0149;Breeding of rabbits
+1122;0149;Livestock speculators - other animals
+1122;0149;Muskrat farming
+1122;0149;Operation of land mollusc farms
+1122;0149;Operation of snail farms
+1122;0149;Operation of worm farms
+1122;0149;Production of beeswax
+1122;0149;Production of bird skins from ranching operation
+1122;0149;Production of fur skins from ranching operation
+1122;0149;Production of honey
+1122;0149;Production of reptile skins from ranching operation
+1122;0149;Production of silk worm cocoons
+1122;0149;Raising of birds, such as parakeets etc. (pets)
+1122;0149;Raising of cats (pets)
+1122;0149;Raising of diverse animals
+1122;0149;Raising of dogs (pets)
+1122;0149;Raising of emus
+1122;0149;Raising of hamsters etc. (pets)
+1122;0149;Raising of insects
+1122;0149;Raising of ostriches
+1122;0149;Raising of other animals
+1122;0149;Raising of other birds (except poultry)
+1122;0149;Raising of other fur animals
+1122;0149;Raising of rabbits
+1122;0149;Raising of silk worms
+1151;0149;Game farming
+1151;0149;Game propagation
+1122;0149;Apiary operation
+1122;0149;Apiculture activity
+1122;0149;Bee catching operation (for agricultural purposes)
+1122;0149;Bee keeping for raw honey production
+1122;0149;Bee keeping for sale of honey
+1122;0149;Bird breeding
+1122;0149;Bird skins production - from ranching operation
+1122;0149;Birds raising
+1122;0149;Butterfly breeding
+1122;0149;Cats breeding
+1122;0149;Dogs breeding
+1122;0149;Domesticated animals raising except swine and poultry
+1122;0149;Emu farming
+1122;0149;Fitch or polecat breeding
+1122;0149;Furskin animal breeding
+1122;0149;Furskin production with farming operation
+1122;0149;Game bird farming
+1122;0149;Greyhound breeding
+1122;0149;Honey production
+1122;0149;Insects raising
+1122;0149;Land mollusc raising
+1122;0149;Land molluscs breeding
+1122;0149;Opossum breeding
+1122;0149;Ostrich farming
+1122;0149;Pet breeding
+1122;0149;Rabbit farming and raising
+1122;0149;Raw honey production
+1122;0149;Reptile skins production from ranching operation
+1122;0149;Reptiles raising
+1122;0149;Sericultural farming and breeding services (silkworm)
+1122;0149;Silkworm cocoons production
+1122;0149;Silkworm egg production and raising of silkworm
+1122;0149;Small animal breeding
+1122;0149;Snake farming
+1122;0149;Vermiculture (worm breeding)
+1122;0149;Worm farming
+1122;0149;Worms breeding
+1151;0149;Deer breeding and farming
+1151;0149;Deer farming for venison
+1151;0149;Deer velvet processing/production
+3150;0149;Production of fellmongered wool, pelt or slipe wool
+1130;0150;Animal farming with crops, etc. (neither exceeding 66%)
+1130;0150;Growing of crops combined with farming of animals (neither exceeding 66%)
+1113;0161;Trimming of fruit trees on a fee or contract basis
+1113;0161;Trimming of vines on a fee or contract basis
+1140;0161;Crop spraying, including by air on a fee or contract basis
+1140;0161;Establishing a crop on a fee or contract basis
+1140;0161;Harvesting on a fee or contract basis
+1140;0161;Maintenance of land to keep it in good condition for agricultural use on a fee or contract basis (to keep it in good ecological condition, see 8130)
+1140;0161;Operation of agricultural irrigation equipment on a fee or contract basis
+1140;0161;Pest control (including rabbits) in connection with agriculture on a fee or contract basis
+1140;0161;Preparation of fields on a fee or contract basis
+1140;0161;Provision of agricultural machinery with operators and crew on a fee or contract basis
+1140;0161;Support activities for crop production
+1140;0161;Thinning of beets on a fee or contract basis
+1140;0161;Transplanting of rice on a fee or contract basis
+1140;0161;Treatment of crops on a fee or contract basis
+1111;0161;Latex harvesting
+1111;0161;Liquid latex plantation treatment
+1112;0161;Tree plant and tree bracing services for ornamental trees in nurseries
+1113;0161;Orchard maintenance on a fee or contract basis
+1113;0161;Orchard pruning on a fee or contract basis
+1140;0161;Aerial crop dusting services
+1140;0161;Aerial crop spraying services
+1140;0161;Aerial fertilizer spreading services
+1140;0161;Aerial mustering
+1140;0161;Aerial pasture spraying or dusting
+1140;0161;Aerial pest control or baiting
+1140;0161;Aerial seeding service
+1140;0161;Aerial topdressing services
+1140;0161;Agricultural irrigation system service operation
+1140;0161;Agricultural land clearing service
+1140;0161;Agricultural machinery rental (with operator)
+1140;0161;Agricultural machinery with drivers and crew provision
+1140;0161;Agricultural pest control services
+1140;0161;Agricultural pest eradication services
+1140;0161;Apple picking services
+1140;0161;Canal maintenance, not involving construction (agricultural irrigation)
+1140;0161;Cane sugar cutting service
+1140;0161;Crop bulk packaging
+1140;0161;Crop establishing activities
+1140;0161;Crop harvesting and related activities
+1140;0161;Crop production services (on fee or contract basis)
+1140;0161;Crop protecting activities
+1140;0161;Crop spraying or dusting (aerial)
+1140;0161;Deforestation of land
+1140;0161;Fallowing of land
+1140;0161;Farm development
+1140;0161;Farm irrigation service
+1140;0161;Farm labour contractors activities
+1140;0161;Fertilizer spreading service
+1140;0161;Fodder cultivating services
+1140;0161;Fodder planting services
+1140;0161;Fruit packing services by companies, on the farm or warehouse not situated on farm
+1140;0161;Fruit picking and sorting services
+1140;0161;Grain cultivating services
+1140;0161;Grain planting services
+1140;0161;Grape vine improvement services
+1140;0161;Ground spread crop spraying services
+1140;0161;Ground spread topdressing services
+1140;0161;Ground spreading fertilizer services
+1140;0161;Ground spreading lime services
+1140;0161;Horticultural crop cultivating services
+1140;0161;Horticultural crop planting services
+1140;0161;Horticultural services
+1140;0161;Insect extermination, agricultural service
+1140;0161;Irrigation systems operation for agricultural purposes
+1140;0161;Market gardening
+1140;0161;Nassella tussock controlling services
+1140;0161;Natural fresh fertilizer gathering service
+1140;0161;Orchard and field preparation services
+1140;0161;Orchard trees spraying , pruning and surgery services
+1140;0161;Pasture cultivating services
+1140;0161;Pasture planting services
+1140;0161;Pest destroying and spraying
+1140;0161;Ploughing services
+1140;0161;Pollination services
+1140;0161;Post tensioning services for farmers (not electric poles)
+1140;0161;Rabbit eradication services
+1140;0161;Rat destroying and trapping farm service
+1140;0161;Rice transplantation services in rice fields
+1140;0161;Rural land clearing services
+1140;0161;Scrub cutting services
+1140;0161;Trapping vermin service (small animals e.g. insects, rodents) on farms
+1140;0161;Tree bracing services for orchards
+1140;0161;Tree doctoring services (farm)
+1140;0161;Tree surgeon services (farm)
+1140;0161;Turf cutting and laying services
+1140;0161;Vegetable cultivating services
+1140;0161;Vegetable planting services
+1140;0161;Water irrigation systems operated for agricultural purposes
+1140;0162;Activities of farriers
+1140;0162;Activities related to artificial insemination on a fee or contract basis (agriculture)
+1140;0162;Agistment services on a fee or contract basis (agriculture)
+1140;0162;Agricultural activities to promote propagation, growth and output of animals on a fee or contract basis
+1140;0162;Animal production services (on fee or contract basis)
+1140;0162;Coop cleaning on a fee or contract basis (agriculture)
+1140;0162;Droving services on a fee or contract basis (agriculture)
+1140;0162;Farm animal boarding and care on a fee or contract basis, (for provision of space for animal boarding only, see 6810) and for pet boarding, see 9609)
+1140;0162;Herd testing services on a fee or contract basis (agriculture)
+1140;0162;Poultry caponizing on a fee or contract basis (agriculture)
+1140;0162;Sheep shearing on a fee or contract basis (agriculture)
+1121;0162;Feedlot provision services
+1140;0162;Agistment service activities
+1140;0162;Agricultural livestock services
+1140;0162;Animal boarding operation e.g. kennels, stables
+1140;0162;Animal breeding centre operation
+1140;0162;Animal care centre operation
+1140;0162;Animal catching services
+1140;0162;Animal cloning services
+1140;0162;Animal husbandry services
+1140;0162;Animal husbandry services except veterinary services
+1140;0162;Animal output growth promoting activities
+1140;0162;Animal output propagation promoting activities
+1140;0162;Animal skinning
+1140;0162;Animal spaying services
+1140;0162;Artificial animal breeding services
+1140;0162;Artificial insemination services
+1140;0162;Branding services for livestock
+1140;0162;Cattery boarding operation
+1140;0162;Cattle dipping operation
+1140;0162;Cattle drafting service
+1140;0162;Cattle drenching service
+1140;0162;Cattle droving service
+1140;0162;Cattle mustering service by helicopter
+1140;0162;Cleaning and selling of litter after removal from chickenhouses (farm)
+1140;0162;Contract milking services
+1140;0162;Coop cleaning activities
+1140;0162;Deer eradication services
+1140;0162;Dog boarding kennel operation
+1140;0162;Droving activities
+1140;0162;Farm butcher services
+1140;0162;Farm home kill butcher service
+1140;0162;Goat shearing services
+1140;0162;Grazing agency services
+1140;0162;Herd testing services
+1140;0162;Horse breaking services
+1140;0162;Livestock agistment services
+1140;0162;Livestock breeding services
+1140;0162;Livestock dipping services
+1140;0162;Livestock drafting or droving services
+1140;0162;Livestock drenching services
+1140;0162;Livestock grazing services
+1140;0162;Livestock improvement services
+1140;0162;Livestock mustering services
+1140;0162;Lucerne harvesting services
+1140;0162;Manure gathering
+1140;0162;Mulesing service
+1140;0162;Noxious (dangerous) animal eradication services
+1140;0162;Pedigree record services
+1140;0162;Poultry caponising activities
+1140;0162;Sharemilking services
+1140;0162;Sheep crutching services
+1140;0162;Sheep dipping services
+1140;0162;Sheep drenching services
+1140;0162;Sheep scanning services
+1140;0162;Sheep sheering and dagging services
+1140;0162;Shepherding services
+1140;0162;Stud services on a fee or contract basis (agriculture)
+1140;0162;Supply of bedding materials and services to chicken farmers
+1140;0162;Support activities for animal production
+1140;0162;Wool classing and grading services
+1152;0162;Warrening service (rabbit)
+1113;0163;Sun-drying of fruit and vegetables
+1113;0163;Waxing of fruit
+1111;0163;Jute scutching on the farm
+1113;0163;Apple, sun drying (for own use)
+1113;0163;Grape sun drying operation (farm)
+1140;0163;Agricultural products grading services
+1140;0163;Cotton ginning
+1140;0163;Crop cleaning and decorticating
+1140;0163;Crop cooling and drying
+1140;0163;Crop grading
+1140;0163;Crop reaping services
+1140;0163;Crop retting
+1140;0163;Crop trimming
+1140;0163;Egg grading and cleaning
+1140;0163;Fruit grading and packing services
+1140;0163;Fruit preserving and enhancing services by dipping, washing, waxing, etc. before packing and selling on behalf of farmer
+1140;0163;Grain cleaning services
+1140;0163;Grain dressing services
+1140;0163;Grain drying services
+1140;0163;Grain grading services
+1140;0163;Grain threshing services
+1140;0163;Hay baling and binding services
+1140;0163;Hay cutting and making services
+1140;0163;Hay trussing service for farmers
+1140;0163;Post-harvest crop activities
+1140;0163;Preparation of cocoa beans
+1140;0163;Preparation of crops for primary markets, i.e. cleaning, trimming, grading, disinfecting
+1140;0163;Preparation of tobacco leaves
+1140;0163;Seed cleaning services
+1140;0163;Seed dressing services
+1140;0163;Seed drying services
+1140;0163;Seed grading services
+1140;0163;Seed-packing service
+1140;0163;Shelling maize services (farm)
+1140;0163;Silage making services
+1140;0163;Silo filling services
+1140;0163;Tobacco  leaf packing as part of services to farmers
+1140;0163;Vegetable grading and packing services
+1140;0163;Vegetable picking and sorting services
+1140;0164;Drying, cleaning, grading and treating of seeds until they are marketed
+1140;0164;Seed processing for propagation
+1140;0164;Seed processing for propagation (for processing of seeds to obtain oil, see 1040)
+1140;0164;Treatment of genetically modified seeds
+1152;0170;Aerial wild deer trapping
+1152;0170;Animals, dead or alive, taking , for food, fur, skin, or for use in research, in zoos or pets
+1152;0170;Bird hunting/trapping (for commercial)
+1152;0170;Birds skins production from hunting and trapping activities
+1152;0170;Buffalo hunting
+1152;0170;Commercial hunting and trapping promoting services
+1152;0170;Crocodile hunting or trapping
+1152;0170;Culling of wild animals
+1152;0170;Deer hunting/trapping for meat or skins
+1152;0170;Dingo hunting or trapping
+1152;0170;Elephant hunting for their teeth (ivory) for exporting
+1152;0170;Fur skin animal hunting or trapping
+1152;0170;Furs production from hunting
+1152;0170;Game hunting/trapping for meat or skins
+1152;0170;Goat hunting/trapping for meat or skins
+1152;0170;Hunting on a commercial basis (for recreation and related service activities, see 9319)
+1152;0170;Hunting, trapping and related service activities
+1152;0170;Hunting/trapping on a commercial basis
+1152;0170;Kangaroo hunting
+1152;0170;Land mollusc gathering
+1152;0170;Land-based catching of sea mammals such as walrus and seal
+1152;0170;Mutton bird catching
+1152;0170;Opossum hunting/trapping for meat or skins
+1152;0170;Penguin eggs gathering
+1152;0170;Pig hunting/trapping for meat or skins
+1152;0170;Possum hunting/trapping for meat or skins
+1152;0170;Production of bird skins from hunting or trapping activities (for ranching activities, see 014)
+1152;0170;Production of fur skins from hunting or trapping activities (for skins from ranching activities, see 014 and from slaughterhouses, see 1010)
+1152;0170;Production of reptile skins from hunting or trapping activities (for skins from ranching activities, see 014 and from slaughterhouses, see 1010))
+1152;0170;Rabbit hunting/trapping for meat or skins
+1152;0170;Reptile skins production from hunting and trapping activities
+1152;0170;Sea mammals catching
+1152;0170;Seal hunting and trapping
+1152;0170;Seals catching
+1152;0170;Snake catching
+1152;0170;Taking of animals (dead or alive) for food
+1152;0170;Taking of animals (dead or alive) for fur and skin
+1152;0170;Taking of animals (dead or alive) for use in research
+1152;0170;Taking of animals (dead or alive) for use in zoos or as pets
+1152;0170;Trapping animals for fur
+1152;0170;Trapping on a commercial basis
+1152;0170;Walruses catching
+1152;0170;Wild animal hunting and trapping
+1210;0210;Silviculture and other forestry activities
+1111;0210;Osier growing
+1111;0210;Palm plantation
+1210;0210;Afforestation services
+1210;0210;Aloe vera growing (wild)
+1210;0210;Conservation of forests
+1210;0210;Forest conservation services
+1210;0210;Forest growing operation
+1210;0210;Forest management and maintenance services
+1210;0210;Forest nursery operation (trees, etc.)
+1210;0210;Forest ownership
+1210;0210;Forest planting, replanting services (trees, etc.)
+1210;0210;Growing of  pulpwood in natural forests
+1210;0210;Growing of  pulpwood in planted forests
+1210;0210;Growing of coppice in natural forests
+1210;0210;Growing of coppice in planted forests
+1210;0210;Growing of fire wood in natural forests
+1210;0210;Growing of fire wood in planted forests
+1210;0210;Growing of standing timber: planting, replanting, transplanting and thinning  in natural or planted forests
+1210;0210;Operation of forest tree nurseries in natural forests (for growing of christmas trees, see 0129)
+1210;0210;Operation of forest tree nurseries in planted forests (for operation of tree nurseries, see 0130)
+1210;0210;Planting of forests
+1210;0210;Replanting of forests
+1210;0210;Timber plantation operation
+1210;0210;Wattle plantation
+1210;0220;Gathering of fire wood
+1210;0220;Production of charcoal in the forest (using traditional methods)
+1220;0220;Logging
+1220;0220;Production of fire wood
+1220;0220;Production of roundwood for forest-based manufacturing industries
+1220;0220;Production of roundwood used in an unprocessed form such as pit-props, fence posts  and utility poles
+1210;0220;Charcoal burning when carried on in the forest (wood)
+1210;0220;Wood charcoal briquettes, blocks, manufacturing, in the forest
+1210;0220;Wood cutting in forest for chemical distillation
+1220;0220;Christmas tree cutting
+1220;0220;Forest firewood cutting
+1220;0220;Forest logging
+1220;0220;Forest material rough shaping and hewing
+1220;0220;Forest stump cutting
+1220;0220;Forest tree cutting and felling
+1220;0220;Loggers - engaged in cutting timber and in producing riven forest  materials
+1220;0220;Loggers - engaged in cutting timber and in producing round hewn wood raw materials
+1220;0220;Logging camps
+1220;0220;Logging contractors
+1220;0220;Logging services activities
+1220;0220;Picket rough shaping and hewing from forest timber
+1220;0220;Pole hewing forest timber
+1220;0220;Posts shaping forest timber
+1220;0220;Pulpwood cutting, forest or bush
+1220;0220;Railway sleeper hewing and rough shaping from forest timber
+1220;0220;Sawlog cutting from forest
+1220;0220;Shingle bolt hewing and rough shaping from forest timber
+1220;0220;Shuttle block hewing and rough shaping from forest timber
+1220;0220;Stump cutting
+1220;0220;Timber hewing (forest)
+1220;0220;Tree cutting or felling (forest)
+1220;0220;Wooden pole rough shaping from forest timber (in forest)
+1220;0220;Wooden post hewing from forest timber (in forest)
+1220;0220;Wooden prop hewing and rough shaping from forest timber (in forest)
+1220;0220;Wooden railroad tie rough hewing (in forest)
+1220;0220;Wooden telegraph pole hewing
+1112;0230;Gathering of non-wood forest products
+1112;0230;Gathering of wild growing materials: mushrooms and truffles (for growing of mushrooms or truffles, see 0113)
+1113;0230;Gathering of wild growing materials: berries (for growing of berries, see 0125)
+1113;0230;Gathering of wild growing materials: nuts (for growing of nuts, see 0125)
+1210;0230;Bamboo cutting, independent
+1210;0230;Gathering of wild growing materials: acorns, horse chestnuts
+1210;0230;Gathering of wild growing materials: balata and other rubber-like gums
+1210;0230;Gathering of wild growing materials: balsams
+1210;0230;Gathering of wild growing materials: cork
+1210;0230;Gathering of wild growing materials: eelgrass
+1210;0230;Gathering of wild growing materials: lac and resins
+1210;0230;Gathering of wild growing materials: mosses and lichens
+1210;0230;Gathering of wild growing materials: vegetable hair
+1210;0230;Reeds cutting, independent
+1112;0230;Mushroom gathering in the wild
+1112;0230;Olives gathering in the wild
+1112;0230;Pumpkins gathering in the wild
+1112;0230;Truffles gathering in the wild
+1210;0230;Balsam needle gathering
+1210;0230;Bamboo growing and cutting in the wild
+1210;0230;Barks gathering
+1210;0230;Bird nest gathering
+1210;0230;Eucalyptus plant gathering in the forest
+1210;0230;Forest product gathering
+1210;0230;Ginseng gathering
+1210;0230;Gums gathering
+1210;0230;Herbs gathering
+1210;0230;Hieracium seed collecting/gathering
+1210;0230;Kauri gum digging
+1210;0230;Leaf collecting/gathering
+1210;0230;Medicinal plant collecting
+1210;0230;Needles gathering (pine)
+1210;0230;Pine cone collecting/gathering
+1210;0230;Pine gum extracting and gathering in the forest
+1210;0230;Reed collecting/gathering
+1210;0230;Resin collecting/gathering
+1210;0230;Roots gathering (in forest)
+1210;0230;Sap collecting/gathering
+1210;0230;Saps concentrating and distilling (own plants)
+1210;0230;Sedge gathering (grass-like plant - triangular stems)
+1210;0230;Spanish moss gathering (called vegetable horsehair)
+1210;0230;Sphagnum moss collecting/gathering
+1210;0230;Teaberry gathering (forest)
+1210;0230;Uncultivated materials and seeds collecting/gathering
+1210;0230;Wild flower and fruit collecting/gathering
+1210;0230;Wild rubber gathering
+1210;0230;Withy gathering (strong flexible twig)
+1210;0240;Forestry service activities: forest fire fighting and protection
+1210;0240;Forestry service activities: forest management consulting services
+1210;0240;Forestry service activities: forest pest control
+1210;0240;Forestry service activities: forestry inventories
+1210;0240;Forestry service activities: timber evaluation
+1210;0240;Logging service activities: transport of logs in the forest
+1210;0240;Support services to forestry
+1210;0240;Cane cutting services
+1210;0240;Fire-fighting (in forest)
+1210;0240;Forest fire fighting/protection services
+1210;0240;Forest tree mensuration services
+1210;0240;Forest tree pruning services
+1210;0240;Forest tree thinning services
+1210;0240;Forestry services
+1210;0240;Pest control service, forestry
+1210;0240;Reforestation services
+1210;0240;Silvicultural services
+1210;0240;Timber cruising
+1210;0240;Timber evaluation
+1210;0240;Timber plantation maintenance services
+1210;0240;Timber tract maintenance services
+1220;0240;Logs transportation, in association with logging mainly within the forest
+1310;0311;Commercial fishing (marine)
+1310;0311;Commercial rod fishing (marine)
+1310;0311;Crab fishing (marine)
+1310;0311;Crayfish fishing (marine)
+1310;0311;Abalone fishing (marine)
+1310;0311;Activities of vessels engaged both in fishing and in processing and preserving of fish
+1310;0311;Algae gathering (marine)
+1310;0311;Aquatic animals hunting (marine)
+1310;0311;Aquatic invertebrates hunting (marine)
+1310;0311;Beach seine fishing
+1310;0311;Bottom single/pair trawling
+1310;0311;Coastal fishing, commercial
+1310;0311;Coral gathering (marine)
+1310;0311;Crab, saltwater, fishing
+1310;0311;Crayfish fishing and potting
+1310;0311;Crayfish, saltwater, fishing
+1310;0311;Crustaceans aboard the fishing boats processing
+1310;0311;Crustaceans fishing (marine)
+1310;0311;Cuttlefish fishing (marine)
+1310;0311;Danish seine fishing (marine)
+1310;0311;Drag net or drift net fishing (marine)
+1310;0311;Dredging fishing (marine)
+1310;0311;Echinoderms hunting (marine invertebrate)
+1310;0311;Eel fishing (marine)
+1310;0311;Encircling gear fishing (marine)
+1310;0311;Finfish trawling (marine)
+1310;0311;Fish processing aboard the fishing boats (marine)
+1310;0311;Fish trolling (marine)
+1310;0311;Fishing on a commercial basis in ocean and coastal waters (For fishing practiced for sport or recreation and related services, see 9319)
+1310;0311;Gathering of other marine organisms and materials: natural pearls, sponges, coral and algae
+1310;0311;Gill net fishing (marine)
+1310;0311;Hand line fishing (marine)
+1310;0311;Kelp collecting/gathering (marine)
+1310;0311;Laver (algae) collection (marine)
+1310;0311;Laver toasting as part of collecting (marine)
+1310;0311;Line or long line fishing (marine)
+1310;0311;Marine crustaceans and molluscs taking
+1310;0311;Marine fisheries services activities
+1310;0311;Marine fishing
+1310;0311;Marine materials gathering
+1310;0311;Marine water fishery products gathering
+1310;0311;Natural pearls gathering (marine)
+1310;0311;Ocean fishing
+1310;0311;Oyster collecting/gathering (in wild) (marine)
+1310;0311;Oyster fishing (except from cultivated oyster beds) (marine)
+1310;0311;Pearling (marine)
+1310;0311;Potting fishing (marine)
+1310;0311;Prawn fishing (marine)
+1310;0311;Prawn fishing and processing  (aboard a vessel at sea)
+1310;0311;Rock lobster fishing and processing aboard vessel at sea
+1310;0311;Rock lobster fishing or potting (marine)
+1310;0311;Salmon fishery (marine)
+1310;0311;Sea urchins or other echinoderms hunting
+1310;0311;Seafood collecting/gathering
+1310;0311;Seashell collecting/gathering
+1310;0311;Sea-squirts hunting
+1310;0311;Seaweed collecting/gathering
+1310;0311;Seaweed or algae harvesting
+1310;0311;Set line fishing (marine)
+1310;0311;Set net fishing (marine)
+1310;0311;Shellfish collecting/gathering (marine)
+1310;0311;Snail gathering (fishing) (marine)
+1310;0311;Snapper line fishing (marine)
+1310;0311;Sponges gathering (marine)
+1310;0311;Squid jigging
+1310;0311;Taking of marine aquatic animals: turtles, sea squirts, tunicates, sea urchins etc
+1310;0311;Taking of marine crustaceans and molluscs
+1310;0311;Tonging oyster (marine)
+1310;0311;Tuna fisheries
+1310;0311;Tunicates hunting
+1310;0311;Turtle gathering (marine)
+1310;0311;Turtle hunting (marine)
+1310;0311;Water molluscs catching (marine)
+1310;0311;Whale catching
+1310;0311;Whale fishing
+1310;0311;Whaling
+1310;0311;Winkle gathering (edible shellfish) (marine)
+1310;0312;Commercial fishing (freshwater)
+1310;0312;Commercial rod fishing (freshwater)
+1310;0312;Crab fishing (freshwater)
+1310;0312;Crayfish fishing (freshwater)
+1310;0312;Freshwater fisheries services activities
+1310;0312;Abalone fishing (freshwater)
+1310;0312;Algae gathering (freshwater)
+1310;0312;Aquatic animals hunting (freshwater)
+1310;0312;Aquatic invertebrates hunting (freshwater)
+1310;0312;Coral gathering (freshwater)
+1310;0312;Crustaceans fishing (freshwater)
+1310;0312;Cuttlefish fishing (freshwater)
+1310;0312;Danish seine fishing (freshwater)
+1310;0312;Drag net or drift net fishing (freshwater)
+1310;0312;Dredging fishing (freshwater)
+1310;0312;Eel fishing (freshwater)
+1310;0312;Encircling gear fishing (freshwater)
+1310;0312;Finfish trawling (freshwater)
+1310;0312;Fish processing aboard the fishing boats (freshwater)
+1310;0312;Fish trolling (freshwater)
+1310;0312;Fishing on a commercial basis in inland waters
+1310;0312;Fresh water fishing
+1310;0312;Freshwater crustaceans and molluscs taking
+1310;0312;Freshwater fishing
+1310;0312;Gathering of freshwater materials
+1310;0312;Gill net fishing (freshwater)
+1310;0312;Hand line fishing (freshwater)
+1310;0312;Inland hook or line fishing
+1310;0312;Inland waters fishing, commercial
+1310;0312;Kelp collecting/gathering (freshwater)
+1310;0312;Lake fishing
+1310;0312;Laver (algae) collection (freshwater)
+1310;0312;Laver toasting as part of collecting (freshwater)
+1310;0312;Line or long line fishing (freshwater)
+1310;0312;Natural pearls gathering (freshwater)
+1310;0312;Oyster collecting/gathering (in wild) (freshwater)
+1310;0312;Oyster fishing (except from cultivated oyster beds) (freshwater)
+1310;0312;Pearling (freshwater)
+1310;0312;Potting fishing (freshwater)
+1310;0312;Prawn fishing (freshwater)
+1310;0312;River fishing
+1310;0312;Rock lobster fishing or potting (freshwater)
+1310;0312;Salmon fishery (freshwater)
+1310;0312;Set line fishing (freshwater)
+1310;0312;Set net fishing (freshwater)
+1310;0312;Shellfish collecting/gathering (freshwater)
+1310;0312;Snail gathering (fishing) (freshwater)
+1310;0312;Snapper line fishing (freshwater)
+1310;0312;Sponges gathering (freshwater)
+1310;0312;Taking of freshwater aquatic animals
+1310;0312;Taking of freshwater crustaceans
+1310;0312;Taking of freshwater molluscs
+1310;0312;Tonging oyster (freshwater)
+1310;0312;Turtle gathering (freshwater)
+1310;0312;Turtle hunting (freshwater)
+1310;0312;Water molluscs catching (freshwater)
+1310;0312;Whitebait catching
+1310;0312;Winkle gathering (edible shellfish) (freshwater)
+1320;0321;Aquaculture activities in brackish waters
+1320;0321;Aquaculture activities in salt water filled reservoirs
+1320;0321;Aquaculture activities in salt water filled tanks
+1320;0321;Culture of crustaceans, bivalves, other molluscs and other aquatic animals in sea water
+1320;0321;Fish farming in sea water, including farming of marine ornamental fish (for operation of sport fishing preserves, see 9319)
+1320;0321;Marine aquaculture
+1122;0321;Crocodile farming (Marine)
+1320;0321;Crustaceans breeding or farming (marine)
+1320;0321;Crustaceans seeds (fish) hatcheries operation (marine)
+1320;0321;Edible sea-weeds growing (marine)
+1320;0321;Fingerlings hatcheries operation (marine)
+1320;0321;Fish breeding and farming (marine)
+1320;0321;Fish farms operators services activities (marine)
+1320;0321;Fish hatchery operation (marine)
+1320;0321;Fish pond (breeding) (marine)
+1320;0321;Fish, fry, hatcheries operation (marine)
+1320;0321;Growing of laver
+1320;0321;Growing of other edible seaweeds
+1320;0321;Laver (marine algae) growing (marine)
+1320;0321;Laver toasting as part of growing (marine)
+1320;0321;Lobsterlings (fish) hatcheries operation (marine)
+1320;0321;Mussel (fish) hatcheries operation (marine)
+1320;0321;Mussel farming (marine)
+1320;0321;Operation of fish hatcheries (marine)
+1320;0321;Operation of marine worm farms
+1320;0321;Oyster bed farming (marine)
+1320;0321;Oyster breeding/cultivation for pearls or food (marine)
+1320;0321;Oyster farming (marine)
+1320;0321;Oyster rearing for pearls or food (marine)
+1320;0321;Oyster spat hatcheries operation (marine)
+1320;0321;Pearl oyster farming (marine)
+1320;0321;Post-larvae shrimp (fish) hatcheries operation (marine)
+1320;0321;Prawn seed producing and farming activities (marine)
+1320;0321;Production of bivalve spat (oyster mussel etc.), lobsterlings, shrimp post-larvae, fish fry and fingerlings
+1320;0321;Salmon hatchery operation (marine)
+1320;0321;Shallow water culture (farming) (marine)
+1320;0321;Shellfish farming (marine)
+1320;0321;Spat (fish) hatcheries operation (marine)
+1320;0321;Trout breeding or farming (marine)
+1320;0321;Trout hatchery operation (marine)
+1320;0321;Water molluscs raising (marine)
+1320;0321;Yabbie fishing or farming (marine)
+1122;0322;Crocodile farming (Freshwater)
+1122;0322;Farming of frogs
+1320;0322;Culture of freshwater crustaceans, bivalves, other molluscs and other aquatic animals
+1122;0322;Frogs breeding (Freshwater)
+1122;0322;Frogs breeding (Marine)
+1320;0322;Crustaceans breeding or farming (fresh water)
+1320;0322;Crustaceans seeds (fish) hatcheries operation (fresh water)
+1320;0322;Edible sea-weeds growing (fresh water)
+1320;0322;Fingerlings hatcheries operation (fresh water)
+1320;0322;Fish breeding and farming (fresh water)
+1320;0322;Fish farming in freshwater including farming of freshwater ornamental fish (for operation of sport fishing preserves, see 9319)
+1320;0322;Fish farms operators services activities (fresh water)
+1320;0322;Fish hatchery operation (fresh water)
+1320;0322;Fish pond (breeding) (fresh water)
+1320;0322;Fish, fry, hatcheries operation (fresh water)
+1320;0322;Freshwater aquaculture
+1320;0322;Laver (marine algae) growing (fresh water)
+1320;0322;Laver toasting as part of growing (fresh water)
+1320;0322;Lobsterlings (fish) hatcheries operation (fresh water)
+1320;0322;Mussel (fish) hatcheries operation (fresh water)
+1320;0322;Mussel farming (fresh water)
+1320;0322;Operation of fish hatcheries (freshwater)
+1320;0322;Oyster bed farming (fresh water)
+1320;0322;Oyster breeding/cultivation for pearls or food (fresh water)
+1320;0322;Oyster farming (fresh water)
+1320;0322;Oyster rearing for pearls or food (fresh water)
+1320;0322;Oyster spat hatcheries operation (fresh water)
+1320;0322;Pearl oyster farming (fresh water)
+1320;0322;Post-larvae shrimp (fish) hatcheries operation (fresh water)
+1320;0322;Prawn seed producing and farming activities (fresh water)
+1320;0322;Salmon hatchery operation (fresh water)
+1320;0322;Shallow water culture (farming) (fresh water)
+1320;0322;Shellfish farming (fresh water)
+1320;0322;Spat (fish) hatcheries operation (fresh water)
+1320;0322;Trout breeding or farming (fresh water)
+1320;0322;Trout hatchery operation (fresh water)
+1320;0322;Water molluscs raising (fresh water)
+1320;0322;Yabbie fishing or farming (fresh water)
+2100;0510;Recovery of hard coal from culm banks
+2100;0510;Anthracite mining
+2100;0510;Briquette manufacturing (at the mining site)
+2100;0510;Char manufacturing (at the mining site)
+2100;0510;Charcoal briquettes production (at mining site from agglomerated coal and lignite)
+2100;0510;Cleaning, sizing, grading, pulverizing, compressing etc. of coal to classify
+2100;0510;Cleaning, sizing, grading, pulverizing, compressing etc. of coal to facilitate storage
+2100;0510;Cleaning, sizing, grading, pulverizing, compressing etc. of coal to facilitate transport
+2100;0510;Cleaning, sizing, grading, pulverizing, compressing etc. of coal to improve quality
+2100;0510;Coal agglomeration into briquettes and other compressed fuels at mining sites
+2100;0510;Coal brick manufacturing (at mining site)
+2100;0510;Coal briquette manufacturing (at mining site)
+2100;0510;Coal crushing, pulverising, cleaning, screening and sizing plants, whether or not operated in conjunction with the mines served
+2100;0510;Coal mining (hard coal)
+2100;0510;Coke manufacturing at the mining site
+2100;0510;Coke ovens operated at the coal mine
+2100;0510;Colliery (mining) (hard coal)
+2100;0510;Hydrogenation coal manufacturing (hard coal) by the mine
+2100;0510;Open cast black coal mining
+2100;0520;Washing, dehydrating, pulverizing, compressing of lignite to improve quality or facilitate transport or storage
+2100;0520;Bituminous coal mining
+2100;0520;Black coal breaking
+2100;0520;Black coal colliery operation
+2100;0520;Black coal exploration/mining
+2100;0520;Black coal grading
+2100;0520;Black coal washing or screening
+2100;0520;Brown coal colliery operation
+2100;0520;Brown coal exploration/mining
+2100;0520;Coal mining (brown coal)
+2100;0520;Colliery (mining) (brown coal)
+2100;0520;Hydrogenation coal manufacturing (soft coal) by the mine
+2100;0520;Lignite agglomeration into briquettes and other compressed fuels at the mining site
+2100;0520;Lignite briquette manufacturing (at mining site)
+2100;0520;Lignite exploration/mining
+2100;0520;Open cast coal mine operation (soft coal)
+2100;0520;Semi-anthracite mining
+2100;0520;Soft coal mining
+2100;0520;Sub-bituminous coal mining
+2211;0610;Extraction of crude petroleum
+2211;0610;Extraction of mines containing bituminous or oil shale and tar sand
+2211;0610;Processes to obtain crude oils: decantation, desalting, dehydration, stabilization etc
+2211;0610;The extraction of crude petroleum oils (for manufacture of refined petroleum products, see 1920)
+2211;0610;Bituminous or oil sands or tar sands mining
+2211;0610;Crude oil mining or stabilising
+2211;0610;Crude petroleum desilting
+2211;0610;Crude petroleum extraction
+2211;0610;Crude petroleum oil distilling
+2211;0610;Crude petroleum oil extraction
+2211;0610;Crude petroleum production on site
+2211;0610;Grading and building foundations at oil well locations, except on contract
+2211;0610;Oil sand digging
+2211;0610;Oil shale mining
+2211;0610;Oil well extraction
+2211;0620;Crude gaseous hydrocarbon (natural gas) production
+2211;0620;Draining of liquid hydrocarbon fractions
+2211;0620;Exploration for petroleum and natural gas, independent
+2211;0620;Extraction of condensates
+2211;0620;Extraction of natural gas
+2211;0620;Gas desulphurization
+2211;0620;Gas well extraction
+2211;0620;Liquefied gas production at wellhead
+2211;0620;Liquefied petroleum gas (LPG) production (not at refineries)
+2211;0620;Liquified natural gas production at wellhead
+2211;0620;Natural gas extraction
+2211;0620;Natural gas production on site
+2211;0620;Natural gas separation at the wellhead
+2211;0620;Production of crude gaseous hydrocarbon (natural gas) (but, for manufacture of industrial gases, see 2011)
+2211;0620;Separation of liquid hydrocarbon fractions
+2410;0710;Agglomeration of iron ores
+2410;0710;Beneficiation of iron ores
+2410;0710;Beneficiating or dressing of iron ores
+2410;0710;Bog ore working
+2410;0710;Iron ore agglomeration and pelletising
+2410;0710;Iron ore mining, beneficiating and preparing of such ores
+2410;0710;Iron sand exploration
+2410;0710;Iron sand mining
+2410;0710;Iron sand mining, beneficiating and preparing of such ores
+2410;0710;Magnetite mining, beneficiating and preparing of such ores
+2410;0710;Production of sintered iron ore
+2410;0710;Siderite ore mining (mineral form of ferrous carbonate)
+2410;0710;Sintering of iron ore at mine
+2410;0710;Taconite mining (variety of chert (siliceous rock) containing magnitite and hematite, mined as low grade iron ore)
+2410;0710;Titaniferous iron ore, beneficiating and preparing of such ores
+2410;0710;Washing iron ore at quarry
+2300;0721;Beneficiating or dressing of uranium ores
+2300;0721;Concentration of  thorium ores (for enrichment of thorium ores, see 2011)
+2300;0721;Concentration of uranium ores (for enrichment of uranium ores, see 2011) and (for smelting and refining of uranium, see 2420)
+2300;0721;Production of yellowcake
+2300;0721;Radio-active metal ore mining
+2300;0721;Radium-bearing ore dressing and beneficiating (found in pitchblende and uranium ores)
+2300;0721;Thorium ore mining
+2300;0721;Uranium ore mining
+2300;0729;Preparation of gold
+2300;0729;Alluvial gold mining
+2300;0729;Beneficiating or dressing of gold ores
+2300;0729;Gold bullion production
+2300;0729;Gold dredging
+2300;0729;Gold drift mining
+2300;0729;Gold mining
+2300;0729;Gold ores roasting  and  flotation extraction including metallurgical hydro-extraction
+2300;0729;Gold sluicing/washing
+2300;0729;Gold, gravity concentrating
+2300;0729;Gold, hydraulic mining
+2300;0729;Gold, placer mine
+2300;0729;Gravity concentrating, gold
+2300;0729;Reclamation of gold from minedumps
+2300;0729;Reworking of mullock heaps or tailings for gold
+2300;0729;Sulfuric acid production (by-products of gold mines)
+2300;0729;Sylvanite mining (ore of gold or native telluride of gold)
+2900;0729;Gold mining contract services
+2421;0729;Preparation of chrome
+2421;0729;Chrome mining
+2421;0729;Chromium ores mining
+2900;0729;Chrome mining contract services
+2422;0729;Preparation of copper
+2422;0729;Beneficiating or dressing of copper ores
+2422;0729;Copper and copper ore mining
+2422;0729;Copper ore leaching
+2422;0729;Cuprite mining (major copper ore - native cuprous oxide)
+2422;0729;Electro-won copper production
+2900;0729;Copper mining contract services
+2423;0729;Preparation of manganese
+2423;0729;Manganese mining
+2423;0729;Manganese ore mining
+2900;0729;Manganese mining contract services
+2424;0729;Preparation of platinum (ruthenium, rhodium, palladium, osmium, iridium and platinum)
+2424;0729;Platinum group metals mining
+2424;0729;Platinum ore mining
+2900;0729;Platinum mining contract services
+2429;0729;Aluminium mining, including the dressing , beneficiating and preparing of such ores
+2429;0729;Aluminium ore mining
+2429;0729;Antimony ore mining
+2429;0729;Bauxite mining
+2429;0729;Beneficiating or dressing of lead ores
+2429;0729;Beneficiating or dressing of nickel ores
+2429;0729;Beneficiating or dressing of silver ores
+2429;0729;Beneficiating or dressing of tin ores
+2429;0729;Beneficiating or dressing of zinc ores
+2429;0729;Beryllium ore mining
+2429;0729;Bismuth ore mining
+2429;0729;Cassiterite mining (tinstone)
+2429;0729;Cobalt mining, including the dressing, beneficiating and preparing of such ores
+2429;0729;Ferro-alloys mining, including the dressing, beneficiating and preparing of such ores
+2429;0729;Galena ore mining (bluish, grey or black ore of lead sulphite)
+2429;0729;Glucinum ore mining (beryllium)
+2429;0729;Ilmenite sand mining (black ore of titanium)
+2429;0729;Iridium ore mining
+2429;0729;Lead mining, including the dressing, beneficiating and preparing of such ores
+2429;0729;Lead ore mining
+2429;0729;Leucoxene sand mining
+2429;0729;Mercury mining
+2429;0729;Metallic ore mining
+2429;0729;Nickel mining, including the dressing, beneficiating and preparing of such ores
+2429;0729;Nickel ore mining
+2429;0729;Other mining of non-ferrous metal ores n.e.c
+2429;0729;Preparation of aluminium (bauxite) ores
+2429;0729;Preparation of cobalt
+2429;0729;Preparation of lead
+2429;0729;Preparation of molybdenum
+2429;0729;Preparation of nickel
+2429;0729;Preparation of other non-ferrous metal ores
+2429;0729;Preparation of silver
+2429;0729;Preparation of tin
+2429;0729;Preparation of vanadium
+2429;0729;Preparation of zinc
+2429;0729;Rutile sand mining (titanium dioxide mineral)
+2429;0729;Scheelite ore mining (tungsten)
+2429;0729;Scoria (scoriae) quarrying (porous cinderlike (slag) fragments of dark lava)
+2429;0729;Silver mining, including the dressing, beneficiating and preparing of such ores
+2429;0729;Silver ore mining
+2429;0729;Silver-lead-zinc ore mining
+2429;0729;Sintering of non-ferrous metal ore
+2429;0729;Smithsonite mining (calamine - zinc carbonate)
+2429;0729;Sphalerite ore mining (an ore that is the chief source of zinc sulfide/zinc blende)
+2429;0729;Synthetic rutile sand mining
+2429;0729;Tantalite ore mining
+2429;0729;Tantalum ore mining, including the dressing, beneficiating and preparing of such ores
+2429;0729;Tin mining, including the dressing, beneficiating and preparing of such ores
+2429;0729;Tin ore mining
+2429;0729;Titanium ore mining
+2429;0729;Tungsten ore dressing and beneficiating
+2429;0729;Tungsten ore mining
+2429;0729;Vanadium mining, including the dressing, beneficiating and preparing of such ores
+2429;0729;Vanadium ore mining
+2429;0729;Willemite mining (minor ore of zinc)
+2429;0729;Wolframite or wolfram ore mining (tungstate of iron and manganese)
+2429;0729;Zinc blende ore mining
+2429;0729;Zinc mining, including the dressing, beneficiating and preparing of such ores
+2429;0729;Zinc ore mining
+2429;0729;Zincite mining (a rare red, native zinc oxide)
+2429;0729;Zirconium ore mining, not gemstone
+2531;0729;Strontium mining
+2900;0729;Metal ore mining contract services (Other n.e.c.)
+2511;0810;Quarrying of dimension stone
+2511;0810;Quarrying of monumental and building stone such as marble, granite, wonderstone, slate etc
+2511;0810;Rough trimming of monumental and building stone such as marble, granite, wonderstone, slate etc
+2511;0810;Sawing of monumental and building stone such as marble, granite, wonderstone, slate etc
+2519;0810;Quarrying of sandstone
+2511;0810;Dimension stone quarrying
+2511;0810;Granite quarrying
+2511;0810;Marble quarrying
+2511;0810;Slate dressing
+2511;0810;Slate mining or quarrying
+2511;0810;Wonder stone quarrying
+2519;0810;Basalt quarrying
+2519;0810;Calcareous tufa quarrying
+2519;0810;Ornamental rock gathering
+2512;0810;Breaking of limestone
+2512;0810;Crushing of limestone
+2512;0810;Quarrying of limestone
+2512;0810;Quarrying of limestone and limeworks
+2512;0810;Lime crushing on site
+2512;0810;Lime quarrying
+2512;0810;Limestone quarrying and limeworks
+2519;0810;Bath stone mining
+2519;0810;Brick shale quarrying
+2519;0810;Cement shale quarrying
+2519;0810;Nepheline syenite mining
+2519;0810;Abrasive sand quarrying
+2519;0810;Ballast quarrying
+2519;0810;Bentonite quarrying
+2519;0810;Blue metal stone quarrying
+2519;0810;Breaking of gravel
+2519;0810;Breaking of stone
+2519;0810;Cement clay quarrying
+2519;0810;Cement rock quarrying
+2519;0810;Chalk quarrying
+2519;0810;Clay pit
+2519;0810;Clay quarrying
+2519;0810;Crushing of gravel
+2519;0810;Crushing of stone
+2519;0810;Dolomite extraction
+2519;0810;Dolomite stone quarrying
+2519;0810;Dredging of gravel
+2519;0810;Dredging of industrial sand
+2519;0810;Dredging of sand for construction 
+2519;0810;Earth, soil or filling quarrying
+2519;0810;Extraction of gravel
+2519;0810;Extraction of industrial sand
+2519;0810;Extraction of sand for construction
+2519;0810;Flint clay extraction
+2519;0810;Flint quarrying
+2519;0810;Fuller's earth quarrying and extraction
+2519;0810;Gravel pit
+2519;0810;Gravel quarrying and grinding
+2519;0810;Gravel screening
+2519;0810;Grit quarrying
+2519;0810;Gypsum mining and extraction
+2519;0810;Kaolin quarrying and extraction
+2519;0810;Other quarrying of stone, sand and clay
+2519;0810;Pebble quarrying and screening
+2519;0810;Potters clay quarrying
+2519;0810;Pulpstone quarrying
+2519;0810;Quarrying of sand
+2519;0810;Quartz sand quarrying
+2519;0810;Quartzite mining
+2519;0810;Rhyolite quarrying (previously called liparite)
+2519;0810;River gravel quarrying
+2519;0810;Road fill quarrying
+2519;0810;Road stone quarrying
+2519;0810;Sand dredging
+2519;0810;Sand pit/sand quarrying
+2519;0810;Sand quarrying (natural - other than metal-bearing)
+2519;0810;Sand screening operation
+2519;0810;Sand washing and grinding
+2519;0810;Sandstone quarrying
+2519;0810;Serpentine mining or quarrying (soft rock of hydrated magnesium silicate)
+2519;0810;Shale quarrying
+2519;0810;Shale quarrying, except oil shale
+2519;0810;Shingle quarrying (small rounded pebbles)
+2519;0810;Silica mining
+2519;0810;Silica sand mining
+2519;0810;Silica stone quarrying
+2519;0810;Slip clay quarrying
+2519;0810;Soil quarrying
+2519;0810;Stone block cutting and rough shaping (quarrying)
+2519;0810;Stone crushing whether situated at mine or not
+2519;0810;Stone quarrying
+2519;0810;Tiler's clay quarrying
+2519;0810;Trass earth quarrying (trass is a variety of tuff (rock formed by consolidation of volcanic ash) used to make cement)
+2519;0810;Travertine mining or quarrying (a white-coloured rock deposited from springwater-a concretionary form of calcium carbonate)
+2519;0810;Volcanic rock quarrying
+2519;0810;Washing ballast (coarse gravel or rock) at mine
+2519;0810;Whiting quarrying or mining (chalk)
+2531;0891;Phosphate rock mining
+2531;0891;Phosphates mining
+2531;0891;Crude potassium mining
+2531;0891;Green sand mining (containing glauconite)
+2531;0891;Barium carbonate mining
+2531;0891;Baryte mining
+2531;0891;Borate mineral mining
+2531;0891;Chemical mineral mining
+2531;0891;Extraction of pyrites, except roasting
+2531;0891;Extraction pyrrhotites, except roasting
+2531;0891;Fluorspar mining
+2531;0891;Guano mining
+2531;0891;Iron pyrite ore mining
+2531;0891;Natural sulphur mining
+2531;0891;Nitrate mineral mining
+2531;0891;Other mining of chemical and fertilizer minerals
+2531;0891;Potash mining
+2531;0891;Preparation of pyrites, except roasting
+2531;0891;Preparation of pyrrhotites, except roasting
+2531;0891;Pyrites mining
+2531;0891;Pyrrhotites mining
+2531;0891;Sulphur mining
+2531;0891;Sulphur ores mining
+2100;0892;Extraction of peat
+2100;0892;Peat agglomeration
+2100;0892;Peat digging
+2100;0892;Preparation of peat to facilitate storage
+2100;0892;Preparation of peat to facilitate transport
+2100;0892;Preparation of peat to improve quality
+2100;0892;Peat cutting
+2100;0892;Peat digging/mining
+2532;0893;Crushing of salt by the producer (not edible)
+2532;0893;Extraction of salt
+2532;0893;Extraction of salt from underground including by dissolving
+2532;0893;Extraction of salt from underground including by pumping
+2532;0893;Purification of salt by the producer (not edible)
+2532;0893;Refining of salt by the producer (not edible) (for processing of salt into food-grade salt, e.g. iodized salt, see 1079)
+2532;0893;Salt production by evaporation of  other saline waters
+2532;0893;Salt production by evaporation of sea water
+2531;0893;Borax mining
+2531;0893;Saltpetre mining
+2531;0893;Soda ash mining or quarrying
+2531;0893;Sodium compound mining
+2531;0893;Sodium mining
+2531;0893;Sulphate mining
+2531;0893;Sulphate sodium mining
+2532;0893;Alum mining
+2532;0893;Rock salt mining
+2532;0893;Salt evaporating
+2532;0893;Salt extraction and processing
+2532;0893;Salt mining
+2532;0893;Salt pan operation
+2532;0893;Salt, not edible, refining
+2532;0893;Unrefined salt collection or harvesting
+2532;0893;Well brine mining (salt)
+2520;0899;Alluvial diamond diggings
+2520;0899;Commercial diving for diamonds
+2520;0899;Diamond mining
+2539;0899;Barite mining
+2539;0899;Chrysoprase mining
+2539;0899;Emerald crystals mining
+2539;0899;Garnet mining
+2539;0899;Gemstone mining
+2539;0899;Green stone quarrying
+2539;0899;Jade mining
+2539;0899;Kyanite, gem, mining
+2539;0899;Opal mining
+2539;0899;Precious stone digging (except diamonds)
+2539;0899;Precious stone mining (except diamonds)
+2539;0899;Quarrying of gemstones
+2539;0899;Quarrying of quartz
+2539;0899;Semi-precious stone mining (except diamonds)
+2539;0899;Tiger eye mining
+2539;0899;Topaz mining (any of various gemstones - transparent aluminium silicate mineral)
+2539;0899;Tourmaline mining or quarrying (a hard crystalline mineral used in jewellry as a gemstone and in electrical optical instruments)
+2539;0899;Quarrying of asbestos
+2539;0899;Other mining and quarrying n.e.c
+2539;0899;Quarrying of abrasive materials
+2539;0899;Quarrying of asphaltites and asphaltic rock
+2539;0899;Quarrying of feldspar
+2539;0899;Quarrying of mica
+2539;0899;Quarrying of natural asphalt
+2539;0899;Quarrying of natural graphite
+2539;0899;Quarrying of natural solid bitumen
+2539;0899;Quarrying of siliceous fossil meals
+2539;0899;Quarrying of steatite (talc)
+2531;0899;Alunite mining
+2531;0899;Arsenic mining
+2531;0899;Lithium minerals mining
+2531;0899;Ochre mining and quarrying
+2531;0899;Realgar mining (mineral of arsenic sulphate - called red arsenic)
+2531;0899;Sienna mining (a brownish-yellowish clay used as a permanent pigment)
+2531;0899;Strontianite mining (a native strontium carbonate)
+2531;0899;Umber mining (pigment)
+2531;0899;Witherite mining or quarrying (barium carbonate-mineral)
+2539;0899;Asbestos mining
+2539;0899;Abrasive stone mining
+2539;0899;Abrasives natural mining
+2539;0899;Alabaster mining
+2539;0899;Alabaster, calcareous, unworked
+2539;0899;Alabaster, gypseous, unworked
+2539;0899;Andalusite mining
+2539;0899;Asphalt mining
+2539;0899;Bitumen mining
+2539;0899;Corundum mining
+2539;0899;Diatomite mining
+2539;0899;Feldspar mining
+2539;0899;Gilsonite mining (uintaite)
+2539;0899;Glauconite mining
+2539;0899;Gneiss quarrying
+2539;0899;Graphite mining
+2539;0899;Grindstone quarrying
+2539;0899;Iceland spar mining (transparent calcite - used to polarize microscopes)
+2539;0899;Kieselguhr mining
+2539;0899;Kyanite, except gem, mining
+2539;0899;Magnesite mining
+2539;0899;Oil stone mining or quarrying
+2539;0899;Pumice quarrying
+2539;0899;Pumicite mining (same as pumice)
+2539;0899;Quartz mining/quarrying
+2539;0899;Rubbing stone quarrying
+2539;0899;Schist (skist), mica, quarrying
+2539;0899;Scythe stone mining or quarrying
+2539;0899;Sillimanite mining
+2539;0899;Soapstone mining
+2539;0899;Sphalerite mineral mining (an isometric native zinc sulfide/sulphide - also called mock lead, galena or black-jack)
+2539;0899;Steatite mining and grinding (talc/soapstone)
+2539;0899;Talc mining/quarrying
+2539;0899;Tripoli earth or stone mining or quarrying
+2539;0899;Tripoli stone mining or quarrying (rotten stone)
+2539;0899;Vermiculite mining
+2539;0899;Whetstone quarrying
+2539;0899;Wurtzilite mining or quarrying (wurtzite)
+2539;0899;Wurtzite mining (a native zinc sulfide differing from sphalerite in its hexagonal structure)
+2539;0899;Zeolite mining (any of a family of hydrous aluminum silicate minerals)
+2539;0899;Zircon mining or quarrying
+2539;0899;Zircon sand mining
+2212;0910;Cementing gas well casings on a fee or contract basis
+2212;0910;Cementing oil well casings on a fee or contract basis
+2212;0910;"Derrick erection in situ, repairing and dismantling; pumping of wells; “Spudding in”; plugging and abandoning wells etc. on a fee or contract basis"
+2212;0910;Directional drilling and redrilling on a fee or contract basis in connection with petroleum or gas extraction
+2212;0910;Draining services, on a fee or contract basis (petroleum and natural gas)
+2212;0910;Exploration services in connection with petroleum or gas extraction, e.g. traditional prospecting methods, such as making geological observations at prospective sites on a fee or contract basis
+2212;0910;Liquefaction of natural gas for purpose of transport, done at the mine site on a fee or contract basis (for liquefaction of natural gas for purpose of transport, done off the mine site, see 5221)
+2212;0910;Oil and gas field fire fighting services on a fee or contract basis
+2212;0910;Pumping services, on a fee or contract basis (petroleum and natural gas)
+2212;0910;Regasification of natural gas for purpose of transport, done at the mine site on a fee or contract basis (for regasification of natural gas for purpose of transport, done off the mine site, see 5221)
+2212;0910;Support activities for petroleum and natural gas extraction
+2212;0910;Test drilling in connection with petroleum or gas extraction on a fee or contract basis
+2211;0910;Natural gas exploration on a fee or contract basis
+2211;0910;Regasification and liquefaction of natural gas at oil or gas field (for transport purposes)
+2212;0910;Acidizing oil wells, contract services
+2212;0910;Bailing oil wells, contract service
+2212;0910;Cementing oil and gas casings (fee or contract)
+2212;0910;Crude petroleum oil well drilling services (pumping, plugging, and abandoning wells)
+2212;0910;Crude petroleum oil well logging services
+2212;0910;Excavating a sush pit and cellar at oil well, on contract
+2212;0910;Gas field service activities
+2212;0910;Grading and building foundations at oil well locations, on contract
+2212;0910;Natural gas exploration services on fee or contract
+2212;0910;Natural gas well logging services
+2212;0910;Oil and gas extraction service activities - fee or contract
+2212;0910;Oil and gas field services derrick building, spudding in, repairing, dismantling - (fee or contract)
+2212;0910;Oil extraction on a fee basis
+2212;0910;Oil pipe-line construction, on fee or contract basis
+2212;0910;Oil pumping station construction contracting service at well
+2212;0910;Oil well casing, contract service
+2212;0910;Oil well cleaning and cementing, contract service
+2212;0910;Oil well drilling, contract service
+2212;0910;Oil well sinking, contract service
+2212;0910;Pulling casings, tubes and rods at gas and oil well on contract or fee basis
+2212;0910;Swabbing oil wells on contract services
+2900;0990;Exploration services, e.g. traditional prospecting methods, such as taking core samples and making geological observations at prospective sites (mining activities) on a fee or contract basis
+2900;0990;Service activities incidental to mining of minerals on a fee or contract basis
+2900;0990;Support services on a fee or contract basis, required for mining activities of divisions 05, 07 and 08
+2900;0990;Other support activities for other mining and quarrying n.e.c
+2900;0990;Coal transport contract hauling services on mining site only
+2900;0990;Removal of coal by subcontractors at mines
+2900;0990;Stonedust barriers installation at coal mines, fee or contract basis
+2900;0990;Subcontractor at gold mines installing steel structures
+2900;0990;Subcontractor at gold mines transporting gold dust with cocoa-pans to refinery on contract (on site)
+2900;0990;Subcontractor at gold mines who vacuums gold dust
+2900;0990;Underground inspection services on locomotives, shovels, drills, and loaders (on contract at mines)
 3011;1010;Abattoir operation (not as part of farming)
 3011;1010;Animal meat packing freezing operation
 3011;1010;Beef packing and dressing
